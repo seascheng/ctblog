@@ -2,12 +2,12 @@
 module.exports = function (res, code, result) {
 	if (code == -1) {
 		res.json({
-			code:'-1',
-			msg: '操作失败'
+			code:-1,
+			msg: result
 		});
 	}else{
 		var result = {
-			code:'1',
+			code:0,
 			msg: '操作成功',
 			result:result
 		}

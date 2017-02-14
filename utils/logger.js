@@ -23,7 +23,15 @@ log4js.configure({
 });
 
 // module.exports = morgan('combined', {stream: accessLogStream});
+// logger.setLevel('ERROR');
+// logger.trace('Entering cheese testing');
+// logger.debug('Got cheese.');
+// logger.info('Cheese is Gouda.');
+// logger.warn('Cheese is quite smelly.');
+// logger.error('Cheese is too ripe!');
+// logger.fatal('Cheese was breeding ground for listeria.');
+global.Logger = log4js.getLogger();
+
 module.exports = {
-  access: morgan('combined', {stream: accessLogStream}),
-  logger: log4js.getLogger()
+  access: morgan('combined', {stream: accessLogStream})
 };

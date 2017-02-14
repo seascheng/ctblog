@@ -1,1 +1,762 @@
 [2017-02-13 09:27:33.237] [DEBUG] [default] - Got cheese
+[2017-02-13 10:54:34.007] [INFO] [default] - db connected
+[2017-02-13 10:54:34.012] [INFO] [default] - db open
+[2017-02-14 10:15:13.335] [INFO] [default] - db connected
+[2017-02-14 10:15:13.341] [INFO] [default] - db open
+[2017-02-14 10:15:21.727] [DEBUG] [default] - 
+[2017-02-14 10:22:30.182] [INFO] [default] - db connected
+[2017-02-14 10:22:30.187] [INFO] [default] - db open
+[2017-02-14 10:22:44.010] [INFO] [default] - db connected
+[2017-02-14 10:22:44.013] [INFO] [default] - db open
+[2017-02-14 10:24:27.358] [INFO] [default] - db connected
+[2017-02-14 10:24:27.366] [INFO] [default] - db open
+[2017-02-14 10:26:46.257] [INFO] [default] - db connected
+[2017-02-14 10:26:46.262] [INFO] [default] - db open
+[2017-02-14 10:26:49.110] [INFO] [default] - db connected
+[2017-02-14 10:26:49.115] [INFO] [default] - db open
+[2017-02-14 10:27:05.443] [INFO] [default] - db connected
+[2017-02-14 10:27:05.448] [INFO] [default] - db open
+[2017-02-14 10:27:31.559] [INFO] [default] - db connected
+[2017-02-14 10:27:31.564] [INFO] [default] - db open
+[2017-02-14 10:27:40.096] [INFO] [default] - 1111:undefined
+[2017-02-14 10:27:40.149] [DEBUG] [default] - 
+[2017-02-14 10:27:48.579] [INFO] [default] - db connected
+[2017-02-14 10:27:48.583] [INFO] [default] - db open
+[2017-02-14 10:27:51.365] [INFO] [default] - 1111:[object Object],[object Object]
+[2017-02-14 10:27:51.451] [DEBUG] [default] - 
+[2017-02-14 10:28:29.012] [INFO] [default] - db connected
+[2017-02-14 10:28:29.018] [INFO] [default] - db open
+[2017-02-14 10:28:33.833] [INFO] [default] - 1111:[{"carcode":"浙A12345"},{"carcode":"浙A00001"}]
+[2017-02-14 10:28:33.882] [DEBUG] [default] - 
+[2017-02-14 10:28:33.885] [INFO] [default] - 1111:[{"carcode":"浙A12345"},{"carcode":"浙A00001"}]
+[2017-02-14 10:28:33.895] [DEBUG] [default] - 
+[2017-02-14 10:28:53.123] [INFO] [default] - db connected
+[2017-02-14 10:28:53.127] [INFO] [default] - db open
+[2017-02-14 10:29:17.445] [INFO] [default] - db connected
+[2017-02-14 10:29:17.449] [INFO] [default] - db open
+[2017-02-14 10:29:23.564] [INFO] [default] - db connected
+[2017-02-14 10:29:23.568] [INFO] [default] - db open
+[2017-02-14 10:29:32.716] [INFO] [default] - db connected
+[2017-02-14 10:29:32.720] [INFO] [default] - db open
+[2017-02-14 10:29:50.107] [INFO] [default] - db connected
+[2017-02-14 10:29:50.111] [INFO] [default] - db open
+[2017-02-14 10:29:51.500] [INFO] [default] - db connected
+[2017-02-14 10:29:51.504] [INFO] [default] - db open
+[2017-02-14 10:30:14.554] [INFO] [default] - seas.cheng@centling.com    123456
+[2017-02-14 10:30:14.592] [DEBUG] [default] - 
+[2017-02-14 10:30:26.687] [INFO] [default] - db connected
+[2017-02-14 10:30:26.692] [INFO] [default] - db open
+[2017-02-14 10:40:29.290] [INFO] [default] - db connected
+[2017-02-14 10:40:29.293] [INFO] [default] - db open
+[2017-02-14 10:40:51.785] [INFO] [default] - db connected
+[2017-02-14 10:40:51.789] [INFO] [default] - db open
+[2017-02-14 10:40:59.382] [DEBUG] [default] - 
+[2017-02-14 10:40:59.388] [INFO] [default] - :::::{ _id: 58a26b1cea3e41643f98f8bd,
+  user_email: 'seas.cheng@centling.com',
+  user_pass: '123456',
+  user_nickname: 'seas.cheng',
+  user_url: 'www.seas.site',
+  user_status: 1,
+  __v: 0,
+  meta: [] }
+[2017-02-14 10:42:54.533] [INFO] [default] - db connected
+[2017-02-14 10:42:54.537] [INFO] [default] - db open
+[2017-02-14 10:44:16.402] [INFO] [default] - db connected
+[2017-02-14 10:44:16.406] [INFO] [default] - db open
+[2017-02-14 10:51:19.464] [INFO] [default] - db connected
+[2017-02-14 10:51:19.467] [INFO] [default] - db open
+[2017-02-14 10:51:22.115] [INFO] [default] - db connected
+[2017-02-14 10:51:22.119] [INFO] [default] - db open
+[2017-02-14 10:54:32.998] [INFO] [default] - db connected
+[2017-02-14 10:54:33.002] [INFO] [default] - db open
+[2017-02-14 10:54:43.588] [INFO] [default] - db connected
+[2017-02-14 10:54:43.592] [INFO] [default] - db open
+[2017-02-14 10:56:41.131] [INFO] [default] - db connected
+[2017-02-14 10:56:41.135] [INFO] [default] - db open
+[2017-02-14 10:56:53.174] [INFO] [default] - :::::null
+[2017-02-14 10:57:32.359] [INFO] [default] - db connected
+[2017-02-14 10:57:32.368] [INFO] [default] - db open
+[2017-02-14 10:57:55.638] [INFO] [default] - db connected
+[2017-02-14 10:57:55.642] [INFO] [default] - db open
+[2017-02-14 10:58:00.149] [INFO] [default] - db connected
+[2017-02-14 10:58:00.153] [INFO] [default] - db open
+[2017-02-14 10:58:04.808] [INFO] [default] - db connected
+[2017-02-14 10:58:04.812] [INFO] [default] - db open
+[2017-02-14 11:02:10.347] [INFO] [default] - db connected
+[2017-02-14 11:02:10.351] [INFO] [default] - db open
+[2017-02-14 11:02:19.322] [INFO] [default] - undefined
+[2017-02-14 11:03:03.736] [INFO] [default] - db connected
+[2017-02-14 11:03:03.739] [INFO] [default] - db open
+[2017-02-14 11:03:12.089] [INFO] [default] - db connected
+[2017-02-14 11:03:12.093] [INFO] [default] - db open
+[2017-02-14 11:03:16.393] [INFO] [default] - null
+[2017-02-14 11:03:54.499] [INFO] [default] - db connected
+[2017-02-14 11:03:54.506] [INFO] [default] - db open
+[2017-02-14 11:03:56.928] [INFO] [default] - db connected
+[2017-02-14 11:03:56.935] [INFO] [default] - db open
+[2017-02-14 11:04:07.425] [INFO] [default] - db connected
+[2017-02-14 11:04:07.429] [INFO] [default] - db open
+[2017-02-14 11:04:13.950] [INFO] [default] - db connected
+[2017-02-14 11:04:13.954] [INFO] [default] - db open
+[2017-02-14 11:04:55.452] [INFO] [default] - db connected
+[2017-02-14 11:04:55.456] [INFO] [default] - db open
+[2017-02-14 11:07:43.121] [INFO] [default] - db connected
+[2017-02-14 11:07:43.127] [INFO] [default] - db open
+[2017-02-14 11:11:28.156] [INFO] [default] - db connected
+[2017-02-14 11:11:28.162] [INFO] [default] - db open
+[2017-02-14 11:34:37.660] [INFO] [default] - db connected
+[2017-02-14 11:34:37.664] [INFO] [default] - db open
+[2017-02-14 11:34:44.259] [INFO] [default] - { _id: 58a2744624ff2365b33b2198,
+  user_email: 'seas.cheng@centling.com',
+  user_pass: '123456',
+  user_nickname: 'seas.cheng',
+  user_url: 'www.seas.site',
+  user_status: 1,
+  __v: 0,
+  meta: [] }
+[2017-02-14 11:34:44.267] [INFO] [default] - 123123123
+[2017-02-14 11:44:42.061] [INFO] [default] - db connected
+[2017-02-14 11:44:42.067] [INFO] [default] - db open
+[2017-02-14 11:44:45.870] [INFO] [default] - { _id: 58a2744624ff2365b33b2198,
+  user_email: 'seas.cheng@centling.com',
+  user_pass: '123456',
+  user_nickname: 'seas.cheng',
+  user_url: 'www.seas.site',
+  user_status: 1,
+  __v: 0,
+  meta: [] }
+[2017-02-14 11:44:45.875] [INFO] [default] - 123123123:{ _id: 58a2744624ff2365b33b2198,
+  user_email: 'seas.cheng@centling.com',
+  user_pass: '123456',
+  user_nickname: 'seas.cheng',
+  user_url: 'www.seas.site',
+  user_status: 1,
+  __v: 0,
+  meta: [] }
+[2017-02-14 11:45:27.530] [INFO] [default] - db connected
+[2017-02-14 11:45:27.535] [INFO] [default] - db open
+[2017-02-14 11:45:38.194] [INFO] [default] - db connected
+[2017-02-14 11:45:38.198] [INFO] [default] - db open
+[2017-02-14 11:45:47.956] [INFO] [default] - db connected
+[2017-02-14 11:45:47.962] [INFO] [default] - db open
+[2017-02-14 11:46:07.099] [INFO] [default] - db connected
+[2017-02-14 11:46:07.104] [INFO] [default] - db open
+[2017-02-14 11:46:08.595] [INFO] [default] - { _id: 58a2744624ff2365b33b2198,
+  user_email: 'seas.cheng@centling.com',
+  user_pass: '123456',
+  user_nickname: 'seas.cheng',
+  user_url: 'www.seas.site',
+  user_status: 1,
+  __v: 0,
+  meta: [] }
+[2017-02-14 11:46:08.601] [INFO] [default] - 123123123:{ _id: 58a2744624ff2365b33b2198,
+  user_email: 'seas.cheng@centling.com',
+  user_pass: '123456',
+  user_nickname: 'seas.cheng',
+  user_url: 'www.seas.site',
+  user_status: 1,
+  __v: 0,
+  meta: [] }
+[2017-02-14 11:48:54.383] [INFO] [default] - db connected
+[2017-02-14 11:48:54.387] [INFO] [default] - db open
+[2017-02-14 11:48:58.384] [INFO] [default] - { _id: 58a2744624ff2365b33b2198,
+  user_email: 'seas.cheng@centling.com',
+  user_pass: '123456',
+  user_nickname: 'seas.cheng',
+  user_url: 'www.seas.site',
+  user_status: 1,
+  __v: 0,
+  meta: [] }
+[2017-02-14 11:48:58.388] [INFO] [default] - 123123123:{ _id: 58a2744624ff2365b33b2198,
+  user_email: 'seas.cheng@centling.com',
+  user_pass: '123456',
+  user_nickname: 'seas.cheng',
+  user_url: 'www.seas.site',
+  user_status: 1,
+  __v: 0,
+  meta: [] }
+[2017-02-14 11:49:03.361] [INFO] [default] - null
+[2017-02-14 11:49:03.363] [INFO] [default] - 123123123:null
+[2017-02-14 11:50:18.747] [INFO] [default] - db connected
+[2017-02-14 11:50:18.753] [INFO] [default] - db open
+[2017-02-14 11:50:23.287] [INFO] [default] - null
+[2017-02-14 11:50:23.290] [INFO] [default] - 123123123:null
+[2017-02-14 11:53:08.740] [INFO] [default] - db connected
+[2017-02-14 11:53:08.744] [INFO] [default] - db open
+[2017-02-14 11:53:54.494] [INFO] [default] - db connected
+[2017-02-14 11:53:54.497] [INFO] [default] - db open
+[2017-02-14 11:53:57.626] [INFO] [default] - null
+[2017-02-14 11:53:57.629] [INFO] [default] - 123123123:null
+[2017-02-14 11:54:05.795] [INFO] [default] - db connected
+[2017-02-14 11:54:05.799] [INFO] [default] - db open
+[2017-02-14 11:54:19.596] [INFO] [default] - db connected
+[2017-02-14 11:54:19.601] [INFO] [default] - db open
+[2017-02-14 11:54:24.796] [INFO] [default] - null
+[2017-02-14 11:54:24.797] [INFO] [default] - result is null
+[2017-02-14 11:54:24.799] [INFO] [default] - 123123123:null
+[2017-02-14 12:14:23.450] [INFO] [default] - db connected
+[2017-02-14 12:14:23.456] [INFO] [default] - db open
+[2017-02-14 12:14:27.991] [INFO] [default] - null
+[2017-02-14 12:14:27.994] [INFO] [default] - result is null
+[2017-02-14 12:14:27.996] [INFO] [default] - 123123123:null
+[2017-02-14 12:14:27.998] [INFO] [default] - error:ererrerrerrerrerrr
+[2017-02-14 12:16:02.719] [INFO] [default] - db connected
+[2017-02-14 12:16:02.722] [INFO] [default] - db open
+[2017-02-14 12:16:38.516] [INFO] [default] - db connected
+[2017-02-14 12:16:38.520] [INFO] [default] - db open
+[2017-02-14 12:16:49.386] [INFO] [default] - db connected
+[2017-02-14 12:16:49.389] [INFO] [default] - db open
+[2017-02-14 12:16:54.813] [INFO] [default] - db connected
+[2017-02-14 12:16:54.816] [INFO] [default] - db open
+[2017-02-14 12:16:57.831] [INFO] [default] - db connected
+[2017-02-14 12:16:57.835] [INFO] [default] - db open
+[2017-02-14 12:17:45.581] [INFO] [default] - db connected
+[2017-02-14 12:17:45.588] [INFO] [default] - db open
+[2017-02-14 12:17:55.330] [INFO] [default] - db connected
+[2017-02-14 12:17:55.334] [INFO] [default] - db open
+[2017-02-14 12:17:59.715] [INFO] [default] - db connected
+[2017-02-14 12:17:59.718] [INFO] [default] - db open
+[2017-02-14 12:18:03.182] [INFO] [default] - null
+[2017-02-14 12:18:08.976] [INFO] [default] - null
+[2017-02-14 12:18:15.703] [INFO] [default] - null
+[2017-02-14 12:18:36.154] [INFO] [default] - db connected
+[2017-02-14 12:18:36.161] [INFO] [default] - db open
+[2017-02-14 12:18:40.828] [INFO] [default] - null
+[2017-02-14 12:18:40.838] [INFO] [default] - null
+[2017-02-14 12:19:08.423] [INFO] [default] - db connected
+[2017-02-14 12:19:08.427] [INFO] [default] - db open
+[2017-02-14 12:19:19.161] [INFO] [default] - db connected
+[2017-02-14 12:19:19.165] [INFO] [default] - db open
+[2017-02-14 12:19:22.153] [INFO] [default] - db connected
+[2017-02-14 12:19:22.156] [INFO] [default] - db open
+[2017-02-14 12:19:23.240] [INFO] [default] - 1
+[2017-02-14 12:19:23.240] [INFO] [default] - 2
+[2017-02-14 12:19:33.827] [INFO] [default] - db connected
+[2017-02-14 12:19:33.832] [INFO] [default] - db open
+[2017-02-14 12:19:34.542] [INFO] [default] - 1
+[2017-02-14 12:19:34.543] [INFO] [default] - 2
+[2017-02-14 12:19:34.544] [INFO] [default] - 4
+[2017-02-14 12:19:43.400] [INFO] [default] - 1
+[2017-02-14 12:19:43.401] [INFO] [default] - 2
+[2017-02-14 12:19:43.401] [INFO] [default] - 3
+[2017-02-14 12:19:43.403] [INFO] [default] - seas.cheng
+[2017-02-14 12:19:56.434] [INFO] [default] - db connected
+[2017-02-14 12:19:56.438] [INFO] [default] - db open
+[2017-02-14 12:22:59.522] [INFO] [default] - db connected
+[2017-02-14 12:22:59.527] [INFO] [default] - db open
+[2017-02-14 12:23:03.057] [INFO] [default] - db connected
+[2017-02-14 12:23:03.061] [INFO] [default] - db open
+[2017-02-14 12:23:11.751] [INFO] [default] - db connected
+[2017-02-14 12:23:11.754] [INFO] [default] - db open
+[2017-02-14 12:23:39.999] [INFO] [default] - db connected
+[2017-02-14 12:23:40.003] [INFO] [default] - db open
+[2017-02-14 12:23:44.127] [INFO] [default] - db connected
+[2017-02-14 12:23:44.131] [INFO] [default] - db open
+[2017-02-14 12:23:52.784] [INFO] [default] - 1
+[2017-02-14 12:23:52.785] [INFO] [default] - 2
+[2017-02-14 12:23:52.786] [INFO] [default] - 3
+[2017-02-14 12:23:52.789] [INFO] [default] - seas.cheng
+[2017-02-14 12:23:52.794] [INFO] [default] - 4
+[2017-02-14 12:23:52.795] [INFO] [default] - 5
+[2017-02-14 12:24:02.708] [INFO] [default] - 1
+[2017-02-14 12:24:02.710] [INFO] [default] - 2
+[2017-02-14 12:24:02.710] [INFO] [default] - 3
+[2017-02-14 12:24:02.712] [INFO] [default] - seas.cheng
+[2017-02-14 12:24:02.713] [INFO] [default] - 4
+[2017-02-14 12:24:02.713] [INFO] [default] - 5
+[2017-02-14 12:24:03.981] [INFO] [default] - 1
+[2017-02-14 12:24:03.981] [INFO] [default] - 2
+[2017-02-14 12:24:03.982] [INFO] [default] - 3
+[2017-02-14 12:24:03.982] [INFO] [default] - seas.cheng
+[2017-02-14 12:24:03.982] [INFO] [default] - 4
+[2017-02-14 12:24:03.983] [INFO] [default] - 5
+[2017-02-14 12:24:04.525] [INFO] [default] - 1
+[2017-02-14 12:24:04.525] [INFO] [default] - 2
+[2017-02-14 12:24:04.525] [INFO] [default] - 3
+[2017-02-14 12:24:04.526] [INFO] [default] - seas.cheng
+[2017-02-14 12:24:04.527] [INFO] [default] - 4
+[2017-02-14 12:24:04.527] [INFO] [default] - 5
+[2017-02-14 12:24:05.088] [INFO] [default] - 1
+[2017-02-14 12:24:05.089] [INFO] [default] - 2
+[2017-02-14 12:24:05.089] [INFO] [default] - 3
+[2017-02-14 12:24:05.090] [INFO] [default] - seas.cheng
+[2017-02-14 12:24:05.092] [INFO] [default] - 4
+[2017-02-14 12:24:05.093] [INFO] [default] - 5
+[2017-02-14 12:24:05.267] [INFO] [default] - 1
+[2017-02-14 12:24:05.268] [INFO] [default] - 2
+[2017-02-14 12:24:05.268] [INFO] [default] - 3
+[2017-02-14 12:24:05.269] [INFO] [default] - seas.cheng
+[2017-02-14 12:24:05.270] [INFO] [default] - 4
+[2017-02-14 12:24:05.270] [INFO] [default] - 5
+[2017-02-14 12:24:05.505] [INFO] [default] - 1
+[2017-02-14 12:24:05.505] [INFO] [default] - 2
+[2017-02-14 12:24:05.505] [INFO] [default] - 3
+[2017-02-14 12:24:05.506] [INFO] [default] - seas.cheng
+[2017-02-14 12:24:05.506] [INFO] [default] - 4
+[2017-02-14 12:24:05.507] [INFO] [default] - 5
+[2017-02-14 12:24:12.109] [INFO] [default] - 1
+[2017-02-14 12:24:12.109] [INFO] [default] - 2
+[2017-02-14 12:24:12.109] [INFO] [default] - 3
+[2017-02-14 12:24:12.109] [INFO] [default] - seas.cheng
+[2017-02-14 12:24:12.110] [INFO] [default] - 4
+[2017-02-14 12:24:12.110] [INFO] [default] - 5
+[2017-02-14 12:24:33.512] [INFO] [default] - db connected
+[2017-02-14 12:24:33.516] [INFO] [default] - db open
+[2017-02-14 12:24:35.148] [INFO] [default] - 1
+[2017-02-14 12:24:35.149] [INFO] [default] - 2
+[2017-02-14 12:24:35.150] [INFO] [default] - 5
+[2017-02-14 12:24:35.178] [INFO] [default] - 1
+[2017-02-14 12:24:35.180] [INFO] [default] - 2
+[2017-02-14 12:24:35.181] [INFO] [default] - 5
+[2017-02-14 12:25:16.462] [INFO] [default] - db connected
+[2017-02-14 12:25:16.466] [INFO] [default] - db open
+[2017-02-14 12:51:00.942] [INFO] [default] - db connected
+[2017-02-14 12:51:00.946] [INFO] [default] - db open
+[2017-02-14 12:51:08.152] [INFO] [default] - 1
+[2017-02-14 12:51:08.153] [INFO] [default] - 2
+[2017-02-14 12:51:08.154] [INFO] [default] - 5
+[2017-02-14 12:51:09.739] [INFO] [default] - 1
+[2017-02-14 12:51:09.740] [INFO] [default] - 2
+[2017-02-14 12:51:09.740] [INFO] [default] - 5
+[2017-02-14 12:51:13.237] [INFO] [default] - 1
+[2017-02-14 12:51:13.238] [INFO] [default] - 2
+[2017-02-14 12:51:13.238] [INFO] [default] - 3
+[2017-02-14 12:51:13.242] [INFO] [default] - seas.chengg
+[2017-02-14 12:51:13.245] [INFO] [default] - 5
+[2017-02-14 12:51:41.851] [INFO] [default] - db connected
+[2017-02-14 12:51:41.855] [INFO] [default] - db open
+[2017-02-14 12:52:04.625] [INFO] [default] - db connected
+[2017-02-14 12:52:04.629] [INFO] [default] - db open
+[2017-02-14 12:52:05.155] [INFO] [default] - 1
+[2017-02-14 12:52:05.156] [INFO] [default] - 2
+[2017-02-14 12:52:05.157] [INFO] [default] - 5
+[2017-02-14 12:52:09.646] [INFO] [default] - 1
+[2017-02-14 12:52:09.647] [INFO] [default] - 2
+[2017-02-14 12:52:09.647] [INFO] [default] - 3
+[2017-02-14 12:52:09.651] [INFO] [default] - seas.chenggg
+[2017-02-14 12:52:09.665] [INFO] [default] - 4
+[2017-02-14 12:52:09.665] [INFO] [default] - 5
+[2017-02-14 12:52:49.857] [INFO] [default] - db connected
+[2017-02-14 12:52:49.864] [INFO] [default] - db open
+[2017-02-14 12:52:52.281] [INFO] [default] - 1
+[2017-02-14 12:52:52.282] [INFO] [default] - 2
+[2017-02-14 12:52:52.282] [INFO] [default] - 5
+[2017-02-14 12:53:03.589] [INFO] [default] - 1
+[2017-02-14 12:53:03.592] [INFO] [default] - 2
+[2017-02-14 12:53:03.592] [INFO] [default] - 3
+[2017-02-14 12:53:03.597] [INFO] [default] - seas.chengggg
+[2017-02-14 12:53:03.606] [INFO] [default] - 4
+[2017-02-14 12:53:03.607] [INFO] [default] - 5
+[2017-02-14 12:53:03.612] [INFO] [default] - error
+[2017-02-14 13:50:33.968] [INFO] [default] - db connected
+[2017-02-14 13:50:33.972] [INFO] [default] - db open
+[2017-02-14 13:50:41.731] [INFO] [default] - db connected
+[2017-02-14 13:50:41.735] [INFO] [default] - db open
+[2017-02-14 13:50:54.245] [INFO] [default] - db connected
+[2017-02-14 13:50:54.251] [INFO] [default] - db open
+[2017-02-14 13:51:06.893] [INFO] [default] - db connected
+[2017-02-14 13:51:06.897] [INFO] [default] - db open
+[2017-02-14 13:51:53.865] [INFO] [default] - db connected
+[2017-02-14 13:51:53.870] [INFO] [default] - db open
+[2017-02-14 13:52:00.417] [INFO] [default] - db connected
+[2017-02-14 13:52:00.421] [INFO] [default] - db open
+[2017-02-14 13:52:05.406] [INFO] [default] - db connected
+[2017-02-14 13:52:05.411] [INFO] [default] - db open
+[2017-02-14 13:52:22.942] [INFO] [default] - 1
+[2017-02-14 13:52:22.943] [INFO] [default] - 2
+[2017-02-14 13:52:22.944] [INFO] [default] - 3
+[2017-02-14 13:52:22.952] [INFO] [default] - seas.chengggg
+[2017-02-14 13:52:22.962] [INFO] [default] - 4
+[2017-02-14 13:52:22.963] [INFO] [default] - 5
+[2017-02-14 13:52:22.972] [INFO] [default] - error
+[2017-02-14 14:01:02.957] [INFO] [default] - db connected
+[2017-02-14 14:01:02.962] [INFO] [default] - db open
+[2017-02-14 14:01:10.601] [INFO] [default] - 1
+[2017-02-14 14:01:10.602] [INFO] [default] - 2
+[2017-02-14 14:01:10.603] [INFO] [default] - 3
+[2017-02-14 14:01:10.616] [INFO] [default] - seas.chengggg
+[2017-02-14 14:01:10.623] [INFO] [default] - 4
+[2017-02-14 14:01:10.625] [INFO] [default] - 有错误 ReferenceError: err is not defined
+[2017-02-14 14:01:10.638] [INFO] [default] - error
+[2017-02-14 14:09:50.813] [INFO] [default] - db connected
+[2017-02-14 14:09:50.817] [INFO] [default] - db open
+[2017-02-14 14:10:51.966] [INFO] [default] - db connected
+[2017-02-14 14:10:51.970] [INFO] [default] - db open
+[2017-02-14 14:10:54.719] [INFO] [default] - db connected
+[2017-02-14 14:10:54.725] [INFO] [default] - db open
+[2017-02-14 14:11:46.123] [INFO] [default] - db connected
+[2017-02-14 14:11:46.128] [INFO] [default] - db open
+[2017-02-14 14:12:01.903] [INFO] [default] - db connected
+[2017-02-14 14:12:01.906] [INFO] [default] - db open
+[2017-02-14 14:12:05.302] [INFO] [default] - 1
+[2017-02-14 14:12:05.303] [INFO] [default] - 2
+[2017-02-14 14:12:05.303] [INFO] [default] - 3
+[2017-02-14 14:12:05.307] [INFO] [default] - seas.chengggg
+[2017-02-14 14:12:05.313] [INFO] [default] - 4
+[2017-02-14 14:12:05.314] [INFO] [default] - 有错误 ReferenceError: err is not defined
+[2017-02-14 14:12:05.325] [INFO] [default] - error
+[2017-02-14 14:12:42.337] [INFO] [default] - db connected
+[2017-02-14 14:12:42.341] [INFO] [default] - db open
+[2017-02-14 14:12:46.014] [INFO] [default] - 1
+[2017-02-14 14:12:46.015] [INFO] [default] - 2
+[2017-02-14 14:12:46.015] [INFO] [default] - 3
+[2017-02-14 14:12:46.019] [INFO] [default] - seas.chengggg
+[2017-02-14 14:12:46.027] [INFO] [default] - 4
+[2017-02-14 14:12:46.027] [INFO] [default] - 无错误
+[2017-02-14 14:12:46.027] [INFO] [default] - Login success
+[2017-02-14 14:12:46.035] [INFO] [default] - error
+[2017-02-14 14:12:54.106] [INFO] [default] - 1
+[2017-02-14 14:12:54.108] [INFO] [default] - 2
+[2017-02-14 14:12:54.109] [INFO] [default] - 3
+[2017-02-14 14:12:54.112] [INFO] [default] - seas.chengggg
+[2017-02-14 14:12:54.116] [INFO] [default] - 4
+[2017-02-14 14:12:54.116] [INFO] [default] - 无错误
+[2017-02-14 14:12:54.119] [INFO] [default] - Login success
+[2017-02-14 14:12:54.127] [INFO] [default] - error
+[2017-02-14 14:12:55.344] [INFO] [default] - 1
+[2017-02-14 14:12:55.344] [INFO] [default] - 2
+[2017-02-14 14:12:55.344] [INFO] [default] - 3
+[2017-02-14 14:12:55.344] [INFO] [default] - seas.chengggg
+[2017-02-14 14:12:55.346] [INFO] [default] - 4
+[2017-02-14 14:12:55.346] [INFO] [default] - 无错误
+[2017-02-14 14:12:55.346] [INFO] [default] - Login success
+[2017-02-14 14:12:55.349] [INFO] [default] - error
+[2017-02-14 14:12:55.971] [INFO] [default] - 1
+[2017-02-14 14:12:55.972] [INFO] [default] - 2
+[2017-02-14 14:12:55.974] [INFO] [default] - 3
+[2017-02-14 14:12:55.975] [INFO] [default] - seas.chengggg
+[2017-02-14 14:12:55.976] [INFO] [default] - 4
+[2017-02-14 14:12:55.976] [INFO] [default] - 无错误
+[2017-02-14 14:12:55.977] [INFO] [default] - Login success
+[2017-02-14 14:12:55.978] [INFO] [default] - error
+[2017-02-14 14:12:56.514] [INFO] [default] - 1
+[2017-02-14 14:12:56.514] [INFO] [default] - 2
+[2017-02-14 14:12:56.514] [INFO] [default] - 3
+[2017-02-14 14:12:56.515] [INFO] [default] - seas.chengggg
+[2017-02-14 14:12:56.517] [INFO] [default] - 4
+[2017-02-14 14:12:56.517] [INFO] [default] - 无错误
+[2017-02-14 14:12:56.518] [INFO] [default] - Login success
+[2017-02-14 14:12:56.519] [INFO] [default] - error
+[2017-02-14 14:12:56.752] [INFO] [default] - 1
+[2017-02-14 14:12:56.752] [INFO] [default] - 2
+[2017-02-14 14:12:56.753] [INFO] [default] - 3
+[2017-02-14 14:12:56.753] [INFO] [default] - seas.chengggg
+[2017-02-14 14:12:56.754] [INFO] [default] - 4
+[2017-02-14 14:12:56.755] [INFO] [default] - 无错误
+[2017-02-14 14:12:56.755] [INFO] [default] - Login success
+[2017-02-14 14:12:56.757] [INFO] [default] - error
+[2017-02-14 14:12:56.969] [INFO] [default] - 1
+[2017-02-14 14:12:56.970] [INFO] [default] - 2
+[2017-02-14 14:12:56.970] [INFO] [default] - 3
+[2017-02-14 14:12:56.971] [INFO] [default] - seas.chengggg
+[2017-02-14 14:12:56.974] [INFO] [default] - 4
+[2017-02-14 14:12:56.974] [INFO] [default] - 无错误
+[2017-02-14 14:12:56.977] [INFO] [default] - Login success
+[2017-02-14 14:12:56.981] [INFO] [default] - error
+[2017-02-14 14:12:57.572] [INFO] [default] - 1
+[2017-02-14 14:12:57.572] [INFO] [default] - 2
+[2017-02-14 14:12:57.572] [INFO] [default] - 3
+[2017-02-14 14:12:57.573] [INFO] [default] - seas.chengggg
+[2017-02-14 14:12:57.573] [INFO] [default] - 4
+[2017-02-14 14:12:57.574] [INFO] [default] - 无错误
+[2017-02-14 14:12:57.574] [INFO] [default] - Login success
+[2017-02-14 14:12:57.576] [INFO] [default] - error
+[2017-02-14 14:12:57.801] [INFO] [default] - 1
+[2017-02-14 14:12:57.801] [INFO] [default] - 2
+[2017-02-14 14:12:57.801] [INFO] [default] - 3
+[2017-02-14 14:12:57.801] [INFO] [default] - seas.chengggg
+[2017-02-14 14:12:57.803] [INFO] [default] - 4
+[2017-02-14 14:12:57.803] [INFO] [default] - 无错误
+[2017-02-14 14:12:57.803] [INFO] [default] - Login success
+[2017-02-14 14:12:57.804] [INFO] [default] - error
+[2017-02-14 14:12:58.006] [INFO] [default] - 1
+[2017-02-14 14:12:58.006] [INFO] [default] - 2
+[2017-02-14 14:12:58.007] [INFO] [default] - 3
+[2017-02-14 14:12:58.007] [INFO] [default] - seas.chengggg
+[2017-02-14 14:12:58.009] [INFO] [default] - 4
+[2017-02-14 14:12:58.009] [INFO] [default] - 无错误
+[2017-02-14 14:12:58.009] [INFO] [default] - Login success
+[2017-02-14 14:12:58.010] [INFO] [default] - error
+[2017-02-14 14:12:58.213] [INFO] [default] - 1
+[2017-02-14 14:12:58.214] [INFO] [default] - 2
+[2017-02-14 14:12:58.214] [INFO] [default] - 3
+[2017-02-14 14:12:58.215] [INFO] [default] - seas.chengggg
+[2017-02-14 14:12:58.216] [INFO] [default] - 4
+[2017-02-14 14:12:58.216] [INFO] [default] - 无错误
+[2017-02-14 14:12:58.216] [INFO] [default] - Login success
+[2017-02-14 14:12:58.217] [INFO] [default] - error
+[2017-02-14 14:12:58.433] [INFO] [default] - 1
+[2017-02-14 14:12:58.434] [INFO] [default] - 2
+[2017-02-14 14:12:58.434] [INFO] [default] - 3
+[2017-02-14 14:12:58.434] [INFO] [default] - seas.chengggg
+[2017-02-14 14:12:58.435] [INFO] [default] - 4
+[2017-02-14 14:12:58.436] [INFO] [default] - 无错误
+[2017-02-14 14:12:58.436] [INFO] [default] - Login success
+[2017-02-14 14:12:58.436] [INFO] [default] - error
+[2017-02-14 14:12:58.629] [INFO] [default] - 1
+[2017-02-14 14:12:58.630] [INFO] [default] - 2
+[2017-02-14 14:12:58.630] [INFO] [default] - 3
+[2017-02-14 14:12:58.630] [INFO] [default] - seas.chengggg
+[2017-02-14 14:12:58.635] [INFO] [default] - 4
+[2017-02-14 14:12:58.635] [INFO] [default] - 无错误
+[2017-02-14 14:12:58.636] [INFO] [default] - Login success
+[2017-02-14 14:12:58.637] [INFO] [default] - error
+[2017-02-14 14:12:58.848] [INFO] [default] - 1
+[2017-02-14 14:12:58.849] [INFO] [default] - 2
+[2017-02-14 14:12:58.849] [INFO] [default] - 3
+[2017-02-14 14:12:58.850] [INFO] [default] - seas.chengggg
+[2017-02-14 14:12:58.851] [INFO] [default] - 4
+[2017-02-14 14:12:58.851] [INFO] [default] - 无错误
+[2017-02-14 14:12:58.852] [INFO] [default] - Login success
+[2017-02-14 14:12:58.853] [INFO] [default] - error
+[2017-02-14 14:12:59.472] [INFO] [default] - 1
+[2017-02-14 14:12:59.473] [INFO] [default] - 2
+[2017-02-14 14:12:59.473] [INFO] [default] - 3
+[2017-02-14 14:12:59.473] [INFO] [default] - seas.chengggg
+[2017-02-14 14:12:59.474] [INFO] [default] - 4
+[2017-02-14 14:12:59.474] [INFO] [default] - 无错误
+[2017-02-14 14:12:59.474] [INFO] [default] - Login success
+[2017-02-14 14:12:59.476] [INFO] [default] - error
+[2017-02-14 14:13:00.035] [INFO] [default] - 1
+[2017-02-14 14:13:00.036] [INFO] [default] - 2
+[2017-02-14 14:13:00.036] [INFO] [default] - 3
+[2017-02-14 14:13:00.037] [INFO] [default] - seas.chengggg
+[2017-02-14 14:13:00.038] [INFO] [default] - 4
+[2017-02-14 14:13:00.039] [INFO] [default] - 无错误
+[2017-02-14 14:13:00.039] [INFO] [default] - Login success
+[2017-02-14 14:13:00.040] [INFO] [default] - error
+[2017-02-14 14:13:00.555] [INFO] [default] - 1
+[2017-02-14 14:13:00.556] [INFO] [default] - 2
+[2017-02-14 14:13:00.558] [INFO] [default] - 3
+[2017-02-14 14:13:00.559] [INFO] [default] - seas.chengggg
+[2017-02-14 14:13:00.565] [INFO] [default] - 4
+[2017-02-14 14:13:00.566] [INFO] [default] - 无错误
+[2017-02-14 14:13:00.566] [INFO] [default] - Login success
+[2017-02-14 14:13:00.567] [INFO] [default] - error
+[2017-02-14 14:13:00.780] [INFO] [default] - 1
+[2017-02-14 14:13:00.780] [INFO] [default] - 2
+[2017-02-14 14:13:00.780] [INFO] [default] - 3
+[2017-02-14 14:13:00.781] [INFO] [default] - seas.chengggg
+[2017-02-14 14:13:00.784] [INFO] [default] - 4
+[2017-02-14 14:13:00.784] [INFO] [default] - 无错误
+[2017-02-14 14:13:00.784] [INFO] [default] - Login success
+[2017-02-14 14:13:00.785] [INFO] [default] - error
+[2017-02-14 14:13:01.083] [INFO] [default] - 1
+[2017-02-14 14:13:01.084] [INFO] [default] - 2
+[2017-02-14 14:13:01.084] [INFO] [default] - 3
+[2017-02-14 14:13:01.084] [INFO] [default] - seas.chengggg
+[2017-02-14 14:13:01.086] [INFO] [default] - 4
+[2017-02-14 14:13:01.086] [INFO] [default] - 无错误
+[2017-02-14 14:13:01.086] [INFO] [default] - Login success
+[2017-02-14 14:13:01.087] [INFO] [default] - error
+[2017-02-14 14:13:01.706] [INFO] [default] - 1
+[2017-02-14 14:13:01.706] [INFO] [default] - 2
+[2017-02-14 14:13:01.706] [INFO] [default] - 3
+[2017-02-14 14:13:01.706] [INFO] [default] - seas.chengggg
+[2017-02-14 14:13:01.707] [INFO] [default] - 4
+[2017-02-14 14:13:01.707] [INFO] [default] - 无错误
+[2017-02-14 14:13:01.707] [INFO] [default] - Login success
+[2017-02-14 14:13:01.708] [INFO] [default] - error
+[2017-02-14 14:13:01.950] [INFO] [default] - 1
+[2017-02-14 14:13:01.951] [INFO] [default] - 2
+[2017-02-14 14:13:01.951] [INFO] [default] - 3
+[2017-02-14 14:13:01.951] [INFO] [default] - seas.chengggg
+[2017-02-14 14:13:01.952] [INFO] [default] - 4
+[2017-02-14 14:13:01.952] [INFO] [default] - 无错误
+[2017-02-14 14:13:01.952] [INFO] [default] - Login success
+[2017-02-14 14:13:01.952] [INFO] [default] - error
+[2017-02-14 14:13:02.525] [INFO] [default] - 1
+[2017-02-14 14:13:02.525] [INFO] [default] - 2
+[2017-02-14 14:13:02.525] [INFO] [default] - 3
+[2017-02-14 14:13:02.526] [INFO] [default] - seas.chengggg
+[2017-02-14 14:13:02.528] [INFO] [default] - 4
+[2017-02-14 14:13:02.528] [INFO] [default] - 无错误
+[2017-02-14 14:13:02.529] [INFO] [default] - Login success
+[2017-02-14 14:13:02.530] [INFO] [default] - error
+[2017-02-14 14:13:02.950] [INFO] [default] - 1
+[2017-02-14 14:13:02.951] [INFO] [default] - 2
+[2017-02-14 14:13:02.951] [INFO] [default] - 3
+[2017-02-14 14:13:02.951] [INFO] [default] - seas.chengggg
+[2017-02-14 14:13:02.952] [INFO] [default] - 4
+[2017-02-14 14:13:02.952] [INFO] [default] - 无错误
+[2017-02-14 14:13:02.952] [INFO] [default] - Login success
+[2017-02-14 14:13:02.953] [INFO] [default] - error
+[2017-02-14 14:13:03.213] [INFO] [default] - 1
+[2017-02-14 14:13:03.213] [INFO] [default] - 2
+[2017-02-14 14:13:03.214] [INFO] [default] - 3
+[2017-02-14 14:13:03.214] [INFO] [default] - seas.chengggg
+[2017-02-14 14:13:03.215] [INFO] [default] - 4
+[2017-02-14 14:13:03.216] [INFO] [default] - 无错误
+[2017-02-14 14:13:03.216] [INFO] [default] - Login success
+[2017-02-14 14:13:03.217] [INFO] [default] - error
+[2017-02-14 14:13:03.484] [INFO] [default] - 1
+[2017-02-14 14:13:03.484] [INFO] [default] - 2
+[2017-02-14 14:13:03.485] [INFO] [default] - 3
+[2017-02-14 14:13:03.486] [INFO] [default] - seas.chengggg
+[2017-02-14 14:13:03.488] [INFO] [default] - 4
+[2017-02-14 14:13:03.488] [INFO] [default] - 无错误
+[2017-02-14 14:13:03.488] [INFO] [default] - Login success
+[2017-02-14 14:13:03.489] [INFO] [default] - error
+[2017-02-14 14:13:03.828] [INFO] [default] - 1
+[2017-02-14 14:13:03.829] [INFO] [default] - 2
+[2017-02-14 14:13:03.829] [INFO] [default] - 3
+[2017-02-14 14:13:03.829] [INFO] [default] - seas.chengggg
+[2017-02-14 14:13:03.830] [INFO] [default] - 4
+[2017-02-14 14:13:03.831] [INFO] [default] - 无错误
+[2017-02-14 14:13:03.831] [INFO] [default] - Login success
+[2017-02-14 14:13:03.832] [INFO] [default] - error
+[2017-02-14 14:13:21.416] [INFO] [default] - db connected
+[2017-02-14 14:13:21.420] [INFO] [default] - db open
+[2017-02-14 14:13:24.265] [INFO] [default] - 1
+[2017-02-14 14:13:24.267] [INFO] [default] - 2
+[2017-02-14 14:13:24.267] [INFO] [default] - 3
+[2017-02-14 14:13:24.272] [INFO] [default] - seas.chengggg
+[2017-02-14 14:13:24.279] [INFO] [default] - 4
+[2017-02-14 14:13:24.279] [INFO] [default] - 无错误
+[2017-02-14 14:13:24.279] [INFO] [default] - Login success
+[2017-02-14 14:13:24.286] [INFO] [default] - error
+[2017-02-14 14:13:24.287] [INFO] [default] - 1
+[2017-02-14 14:13:24.287] [INFO] [default] - 2
+[2017-02-14 14:13:24.287] [INFO] [default] - 3
+[2017-02-14 14:13:24.288] [INFO] [default] - seas.chengggg
+[2017-02-14 14:13:24.289] [INFO] [default] - 4
+[2017-02-14 14:13:24.290] [INFO] [default] - 无错误
+[2017-02-14 14:13:24.290] [INFO] [default] - Login success
+[2017-02-14 14:13:24.293] [INFO] [default] - error
+[2017-02-14 14:13:53.578] [INFO] [default] - db connected
+[2017-02-14 14:13:53.582] [INFO] [default] - db open
+[2017-02-14 14:13:55.802] [INFO] [default] - 1
+[2017-02-14 14:13:55.803] [INFO] [default] - 2
+[2017-02-14 14:13:55.804] [INFO] [default] - 3
+[2017-02-14 14:13:55.811] [INFO] [default] - seas.chengggg
+[2017-02-14 14:13:55.826] [INFO] [default] - 4
+[2017-02-14 14:13:55.828] [INFO] [default] - 无错误
+[2017-02-14 14:13:55.828] [INFO] [default] - Login success
+[2017-02-14 14:13:55.842] [INFO] [default] - { MongooseError: User validation failed
+    at ValidationError (/Users/chengseas/Desktop/Seas/ctblog/node_modules/mongoose/lib/error/validation.js:23:11)
+    at model.Document.invalidate (/Users/chengseas/Desktop/Seas/ctblog/node_modules/mongoose/lib/document.js:1524:32)
+    at /Users/chengseas/Desktop/Seas/ctblog/node_modules/mongoose/lib/document.js:1399:17
+    at validate (/Users/chengseas/Desktop/Seas/ctblog/node_modules/mongoose/lib/schematype.js:706:7)
+    at /Users/chengseas/Desktop/Seas/ctblog/node_modules/mongoose/lib/schematype.js:743:9
+    at Array.forEach (native)
+    at SchemaString.SchemaType.doValidate (/Users/chengseas/Desktop/Seas/ctblog/node_modules/mongoose/lib/schematype.js:711:19)
+    at /Users/chengseas/Desktop/Seas/ctblog/node_modules/mongoose/lib/document.js:1397:9
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+  errors: 
+   { user_pass: 
+      { MongooseError: User pass required
+          at ValidatorError (/Users/chengseas/Desktop/Seas/ctblog/node_modules/mongoose/lib/error/validator.js:24:11)
+          at validate (/Users/chengseas/Desktop/Seas/ctblog/node_modules/mongoose/lib/schematype.js:705:13)
+          at /Users/chengseas/Desktop/Seas/ctblog/node_modules/mongoose/lib/schematype.js:743:9
+          at Array.forEach (native)
+          at SchemaString.SchemaType.doValidate (/Users/chengseas/Desktop/Seas/ctblog/node_modules/mongoose/lib/schematype.js:711:19)
+          at /Users/chengseas/Desktop/Seas/ctblog/node_modules/mongoose/lib/document.js:1397:9
+          at _combinedTickCallback (internal/process/next_tick.js:67:7)
+          at process._tickCallback (internal/process/next_tick.js:98:9)
+        message: 'User pass required',
+        name: 'ValidatorError',
+        properties: [Object],
+        kind: 'required',
+        path: 'user_pass',
+        value: '' } },
+  message: 'User validation failed',
+  name: 'ValidationError' }
+[2017-02-14 14:14:40.938] [INFO] [default] - db connected
+[2017-02-14 14:14:40.942] [INFO] [default] - db open
+[2017-02-14 14:14:49.186] [INFO] [default] - db connected
+[2017-02-14 14:14:49.190] [INFO] [default] - db open
+[2017-02-14 14:14:54.319] [INFO] [default] - db connected
+[2017-02-14 14:14:54.322] [INFO] [default] - db open
+[2017-02-14 14:15:03.918] [INFO] [default] - db connected
+[2017-02-14 14:15:03.922] [INFO] [default] - db open
+[2017-02-14 14:15:17.633] [INFO] [default] - 1
+[2017-02-14 14:16:00.885] [INFO] [default] - db connected
+[2017-02-14 14:16:00.890] [INFO] [default] - db open
+[2017-02-14 14:16:07.451] [INFO] [default] - db connected
+[2017-02-14 14:16:07.458] [INFO] [default] - db open
+[2017-02-14 14:16:09.864] [INFO] [default] - 1
+[2017-02-14 14:16:18.133] [INFO] [default] - db connected
+[2017-02-14 14:16:18.137] [INFO] [default] - db open
+[2017-02-14 14:16:21.504] [INFO] [default] - 1
+[2017-02-14 14:16:21.504] [INFO] [default] - 2
+[2017-02-14 14:16:21.505] [INFO] [default] - 3
+[2017-02-14 14:16:21.508] [INFO] [default] - seas.chengggg
+[2017-02-14 14:16:21.517] [INFO] [default] - 4
+[2017-02-14 14:16:21.518] [INFO] [default] - 无错误
+[2017-02-14 14:16:21.519] [INFO] [default] - Login success
+[2017-02-14 14:16:21.528] [INFO] [default] - User validation failed
+[2017-02-14 14:16:34.172] [INFO] [default] - db connected
+[2017-02-14 14:16:34.176] [INFO] [default] - db open
+[2017-02-14 14:16:37.818] [INFO] [default] - db connected
+[2017-02-14 14:16:37.822] [INFO] [default] - db open
+[2017-02-14 14:16:40.016] [INFO] [default] - 1
+[2017-02-14 14:16:40.017] [INFO] [default] - 2
+[2017-02-14 14:16:40.018] [INFO] [default] - 3
+[2017-02-14 14:16:40.028] [INFO] [default] - seas.chengggg
+[2017-02-14 14:16:40.034] [INFO] [default] - 4
+[2017-02-14 14:16:40.035] [INFO] [default] - 无错误
+[2017-02-14 14:16:40.035] [INFO] [default] - Login success
+[2017-02-14 14:16:40.047] [INFO] [default] - User validation failed
+[2017-02-14 14:17:00.453] [INFO] [default] - db connected
+[2017-02-14 14:17:00.458] [INFO] [default] - db open
+[2017-02-14 14:17:25.507] [INFO] [default] - db connected
+[2017-02-14 14:17:25.516] [INFO] [default] - db open
+[2017-02-14 14:17:30.712] [INFO] [default] - 1
+[2017-02-14 14:17:30.713] [INFO] [default] - 2
+[2017-02-14 14:17:30.713] [INFO] [default] - 3
+[2017-02-14 14:17:30.724] [INFO] [default] - seas.chengggg
+[2017-02-14 14:17:30.743] [INFO] [default] - 4
+[2017-02-14 14:17:30.744] [INFO] [default] - 无错误
+[2017-02-14 14:17:30.744] [INFO] [default] - Login success
+[2017-02-14 14:17:30.769] [INFO] [default] - 1
+[2017-02-14 14:17:30.770] [INFO] [default] - 2
+[2017-02-14 14:17:30.772] [INFO] [default] - 3
+[2017-02-14 14:17:30.773] [INFO] [default] - seas.chengggg
+[2017-02-14 14:17:30.774] [INFO] [default] - 4
+[2017-02-14 14:17:30.775] [INFO] [default] - 无错误
+[2017-02-14 14:17:30.775] [INFO] [default] - Login success
+[2017-02-14 14:17:53.818] [INFO] [default] - db connected
+[2017-02-14 14:17:53.822] [INFO] [default] - db open
+[2017-02-14 14:17:54.510] [INFO] [default] - 1
+[2017-02-14 14:17:54.511] [INFO] [default] - 2
+[2017-02-14 14:17:54.511] [INFO] [default] - 3
+[2017-02-14 14:17:54.516] [INFO] [default] - seas.chengggg
+[2017-02-14 14:17:54.521] [INFO] [default] - 4
+[2017-02-14 14:17:54.522] [INFO] [default] - 无错误
+[2017-02-14 14:17:54.523] [INFO] [default] - Login success
+[2017-02-14 14:17:54.532] [INFO] [default] - User validation failed
+[2017-02-14 14:18:13.008] [INFO] [default] - db connected
+[2017-02-14 14:18:13.014] [INFO] [default] - db open
+[2017-02-14 14:18:14.005] [INFO] [default] - 1
+[2017-02-14 14:18:14.006] [INFO] [default] - 2
+[2017-02-14 14:18:14.007] [INFO] [default] - 3
+[2017-02-14 14:18:14.018] [INFO] [default] - seas.chengggg
+[2017-02-14 14:18:14.025] [INFO] [default] - 4
+[2017-02-14 14:18:14.025] [INFO] [default] - 无错误
+[2017-02-14 14:18:14.025] [INFO] [default] - Login success
+[2017-02-14 14:18:14.033] [INFO] [default] - User validation failed
+[2017-02-14 14:18:19.459] [INFO] [default] - 1
+[2017-02-14 14:18:19.459] [INFO] [default] - 2
+[2017-02-14 14:18:19.459] [INFO] [default] - 3
+[2017-02-14 14:18:19.461] [INFO] [default] - seas.chengggg
+[2017-02-14 14:18:19.464] [INFO] [default] - 4
+[2017-02-14 14:18:19.465] [INFO] [default] - 无错误
+[2017-02-14 14:18:19.466] [INFO] [default] - Login success
+[2017-02-14 14:18:19.469] [INFO] [default] - User validation failed
+[2017-02-14 14:18:19.474] [INFO] [default] - 1
+[2017-02-14 14:18:19.474] [INFO] [default] - 2
+[2017-02-14 14:18:19.474] [INFO] [default] - 3
+[2017-02-14 14:18:19.474] [INFO] [default] - seas.chengggg
+[2017-02-14 14:18:19.476] [INFO] [default] - 4
+[2017-02-14 14:18:19.477] [INFO] [default] - 无错误
+[2017-02-14 14:18:19.477] [INFO] [default] - Login success
+[2017-02-14 14:18:19.479] [INFO] [default] - User validation failed
+[2017-02-14 14:19:07.110] [INFO] [default] - db connected
+[2017-02-14 14:19:07.114] [INFO] [default] - db open
+[2017-02-14 14:19:09.303] [INFO] [default] - 1
+[2017-02-14 14:19:09.303] [INFO] [default] - 2
+[2017-02-14 14:19:09.303] [INFO] [default] - 3
+[2017-02-14 14:19:09.316] [INFO] [default] - seas.chengggg
+[2017-02-14 14:19:09.335] [INFO] [default] - 4
+[2017-02-14 14:19:09.336] [INFO] [default] - User validation failed

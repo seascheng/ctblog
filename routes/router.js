@@ -1,6 +1,5 @@
 var cors = require('cors');
 var access = require('../utils/logger').access;
-// var logger = require('../utils/logger').logger;
 
 module.exports = function (app){
 	app.use(cors());
