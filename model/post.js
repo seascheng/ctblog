@@ -14,13 +14,22 @@ var postSchema = new Schema({
 	post_excerpt : String,
 	post_status :  String, 
 	post_term : [{
-		term_id : String,
+		term_id : {
+			type: Schema.Types.ObjectId,
+			ref: 'Term'
+		},
 	}],
 	post_category : [{
-		category_id : String
+		category_id : {
+			type: Schema.Types.ObjectId,
+			ref: 'Category'
+		}
 	}],
 	post_tag : [{
-		tag_id : String
+		tag_id : {
+			type: Schema.Types.ObjectId,
+			ref: 'Post'
+		}
 	}],
 	comment_status : String,
 	post_name : String,

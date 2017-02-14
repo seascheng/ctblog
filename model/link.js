@@ -5,7 +5,10 @@ var Schema = mongoose.Schema,
 
 var linkSchema = new Schema({
 	id : ObjectId,
-	user_id : String,
+	user_id : {
+		type: Schema.Types.ObjectId,
+		ref: 'User'
+	},
 	link_name : {
 		type : String,
 		required : [true, 'Link name required']

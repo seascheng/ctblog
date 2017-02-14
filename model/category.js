@@ -5,7 +5,10 @@ var Schema = mongoose.Schema,
 
 var categorySchema = new Schema({
 	id : ObjectId,
-	user_id : String,
+	user_id : {
+		type: Schema.Types.ObjectId,
+		ref: 'User'
+	},
 	category_name : {
 		type : String,
 		required : [true, 'Category required']

@@ -9,6 +9,10 @@ var termSchema = new Schema({
 		type : String,
 		required : [true, 'Term required']
 	},
+	user_id : {
+		type: Schema.Types.ObjectId,
+		ref: 'User'
+	},
 	term_slug : String,
 	meta : [{
 		key : String,

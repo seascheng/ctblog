@@ -5,7 +5,10 @@ var Schema = mongoose.Schema,
 
 var tagSchema = new Schema({
 	id : ObjectId,
-	user_id : String,
+	user_id : {
+		type: Schema.Types.ObjectId,
+		ref: 'User'
+	},
 	tag_name : {
 		type : String,
 		required : [true, 'Tag name required']
