@@ -1,8 +1,18 @@
+var router = require('express').Router();
 var User = require('../model/user')
+// var user = require('../model/user');
 
-exports.signup = (email, pass, cb)=>{
-	if (!email.endsWith('@centling.com')) {
-		cb(-1, 'Invalid email, it should be a centling email');
+var response = require('../utils/response')
+
+var checkNotLogin = require('../middlewares/check').checkNotLogin;
+
+// POST /user/signup 注册
+router.post('/signup', (req, res, next) => {
+	var email = req.body.email;
+	var pass = req.body.pass;
+
+  	if (!email.endsWith('@centling.com')) {
+  		response(res, -1, 'Invalid email, it should be a centling email');
 	};
 
 	User.findOne({user_email: email})
@@ -22,20 +32,27 @@ exports.signup = (email, pass, cb)=>{
 			return user.save();
 		}
 	}).then(user => {
-		cb(0, "Signup Success");
+		if (!email.endsWith('@centling.com')) {
+	  		response(res, 0, user);
+		};
 	}).catch(error =>{
 		if (error.errors) {error = error.errors.user_pass.message;};
 		Logger.info("signup error: "+error);
-		cb(-1, error);
+		// cb(-1, error);
+		response(res, -1, error);
 	});
-}
+});
 
-exports.signin = (email, pass, cb)=>{
-	User.findOne({user_email: email})
+// POST /user/signin 登录
+router.post('/signin', (req, res, next) => {
+	var email = req.body.email;
+	var pass = req.body.pass;
+
+  	User.findOne({user_email: email})
 	.then(user =>{
 		if (user) {
 			if (pass == user.user_pass) {
-				cb(0, "Signin Success");
+				response(res, 0, user);
 			}else{
 				throw "Invalid Password";
 			}
@@ -45,7 +62,8 @@ exports.signin = (email, pass, cb)=>{
 	}).catch(error =>{
 		if (error.errors) {error = error.errors.user_pass.message;};
 		Logger.info("signin error: "+error);
-		cb(-1, error);
+		response(res, -1, error);
 	});
-}
+});
 
+module.exports = router;

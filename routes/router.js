@@ -5,10 +5,8 @@ module.exports = function (app){
 	app.use(cors());
 	app.use(access);
 
-	app.use('/signin', require('./signin'));
-	// app.use('/signup', require('./signup'));
-	// app.use('/signout', require('./signout'));
-	app.use('/posts', require('./posts'));
+	app.use('/user', require('./user'));
+	app.use('/post', require('./posts'));
 
 	//404
 	app.use(function(req, res){

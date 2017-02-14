@@ -955,3 +955,63 @@
 [2017-02-14 15:44:03.222] [INFO] [default] - db open
 [2017-02-14 15:44:06.845] [INFO] [default] - db connected
 [2017-02-14 15:44:06.849] [INFO] [default] - db open
+[2017-02-14 15:51:51.408] [INFO] [default] - db connected
+[2017-02-14 15:51:51.412] [INFO] [default] - db open
+[2017-02-14 15:52:08.411] [INFO] [default] - db connected
+[2017-02-14 15:52:08.415] [INFO] [default] - db open
+[2017-02-14 15:52:28.464] [INFO] [default] - db connected
+[2017-02-14 15:52:28.468] [INFO] [default] - db open
+[2017-02-14 15:52:59.539] [INFO] [default] - db connected
+[2017-02-14 15:52:59.545] [INFO] [default] - db open
+[2017-02-14 15:53:34.712] [INFO] [default] - db connected
+[2017-02-14 15:53:34.716] [INFO] [default] - db open
+[2017-02-14 15:53:39.968] [INFO] [default] - db connected
+[2017-02-14 15:53:39.972] [INFO] [default] - db open
+[2017-02-14 15:53:47.032] [INFO] [default] - db connected
+[2017-02-14 15:53:47.036] [INFO] [default] - db open
+[2017-02-14 15:57:31.998] [INFO] [default] - db connected
+[2017-02-14 15:57:32.003] [INFO] [default] - db open
+[2017-02-14 15:57:54.615] [INFO] [default] - db connected
+[2017-02-14 15:57:54.620] [INFO] [default] - db open
+[2017-02-14 15:58:16.400] [INFO] [default] - db connected
+[2017-02-14 15:58:16.404] [INFO] [default] - db open
+[2017-02-14 15:58:20.138] [INFO] [default] - db connected
+[2017-02-14 15:58:20.142] [INFO] [default] - db open
+[2017-02-14 15:58:26.834] [INFO] [default] - db connected
+[2017-02-14 15:58:26.840] [INFO] [default] - db open
+[2017-02-14 15:58:33.536] [INFO] [default] - db connected
+[2017-02-14 15:58:33.541] [INFO] [default] - db open
+[2017-02-14 16:01:38.864] [INFO] [default] - db connected
+[2017-02-14 16:01:38.869] [INFO] [default] - db open
+[2017-02-14 16:01:54.916] [INFO] [default] - db connected
+[2017-02-14 16:01:54.920] [INFO] [default] - db open
+[2017-02-14 16:01:56.033] [INFO] [default] - db connected
+[2017-02-14 16:01:56.038] [INFO] [default] - db open
+[2017-02-14 16:02:04.204] [INFO] [default] - db connected
+[2017-02-14 16:02:04.210] [INFO] [default] - db open
+[2017-02-14 16:02:06.304] [INFO] [default] - signup error: Existed Email
+[2017-02-14 16:02:21.983] [INFO] [default] - db connected
+[2017-02-14 16:02:21.987] [INFO] [default] - db open
+[2017-02-14 16:02:23.461] [INFO] [default] - signup error: Existed Email
+[2017-02-14 16:04:27.122] [INFO] [default] - db connected
+[2017-02-14 16:04:27.127] [INFO] [default] - db open
+[2017-02-14 16:04:47.167] [INFO] [default] - db connected
+[2017-02-14 16:04:47.172] [INFO] [default] - db open
+[2017-02-14 16:04:49.868] [INFO] [default] - db connected
+[2017-02-14 16:04:49.872] [INFO] [default] - db open
+[2017-02-14 16:05:16.307] [INFO] [default] - db connected
+[2017-02-14 16:05:16.311] [INFO] [default] - db open
+[2017-02-14 16:05:36.043] [INFO] [default] - db connected
+[2017-02-14 16:05:36.047] [INFO] [default] - db open
+[2017-02-14 16:06:04.670] [INFO] [default] - db connected
+[2017-02-14 16:06:04.674] [INFO] [default] - db open
+[2017-02-14 16:06:13.618] [INFO] [default] - db connected
+[2017-02-14 16:06:13.626] [INFO] [default] - db open
+[2017-02-14 16:06:18.412] [INFO] [default] - db connected
+[2017-02-14 16:06:18.415] [INFO] [default] - db open
+[2017-02-14 16:06:22.292] [INFO] [default] - db connected
+[2017-02-14 16:06:22.297] [INFO] [default] - db open
+[2017-02-14 16:07:03.222] [INFO] [default] - signin error: Invalid Password
+[2017-02-14 16:07:07.169] [INFO] [default] - signin error: Invalid Password
+[2017-02-14 16:07:08.886] [INFO] [default] - signin error: Invalid Password
+[2017-02-14 16:07:27.282] [INFO] [default] - signin error: Unexisted Email
