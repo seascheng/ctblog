@@ -760,3 +760,170 @@
 [2017-02-14 14:19:09.316] [INFO] [default] - seas.chengggg
 [2017-02-14 14:19:09.335] [INFO] [default] - 4
 [2017-02-14 14:19:09.336] [INFO] [default] - User validation failed
+[2017-02-14 14:26:12.011] [INFO] [default] - db connected
+[2017-02-14 14:26:12.015] [INFO] [default] - db open
+[2017-02-14 14:26:25.500] [INFO] [default] - db connected
+[2017-02-14 14:26:25.505] [INFO] [default] - db open
+[2017-02-14 14:28:47.319] [INFO] [default] - db connected
+[2017-02-14 14:28:47.323] [INFO] [default] - db open
+[2017-02-14 14:28:53.630] [INFO] [default] - db connected
+[2017-02-14 14:28:53.634] [INFO] [default] - db open
+[2017-02-14 14:29:35.705] [INFO] [default] - db connected
+[2017-02-14 14:29:35.709] [INFO] [default] - db open
+[2017-02-14 14:29:52.609] [INFO] [default] - db connected
+[2017-02-14 14:29:52.612] [INFO] [default] - db open
+[2017-02-14 14:30:43.819] [INFO] [default] - db connected
+[2017-02-14 14:30:43.824] [INFO] [default] - db open
+[2017-02-14 14:31:00.993] [INFO] [default] - db connected
+[2017-02-14 14:31:00.997] [INFO] [default] - db open
+[2017-02-14 14:31:07.980] [INFO] [default] - 2
+[2017-02-14 14:31:07.980] [INFO] [default] - 3
+[2017-02-14 14:31:07.984] [INFO] [default] - seas.chengggg
+[2017-02-14 14:31:07.993] [INFO] [default] - 有错误 ValidationError: User pass required
+[2017-02-14 14:32:41.652] [INFO] [default] - db connected
+[2017-02-14 14:32:41.658] [INFO] [default] - db open
+[2017-02-14 14:32:43.614] [INFO] [default] - 2
+[2017-02-14 14:32:43.615] [INFO] [default] - 3
+[2017-02-14 14:32:43.625] [INFO] [default] - seas.chengggg
+[2017-02-14 14:32:43.634] [INFO] [default] - 有错误 User validation failed
+[2017-02-14 14:33:31.986] [INFO] [default] - db connected
+[2017-02-14 14:33:31.990] [INFO] [default] - db open
+[2017-02-14 14:33:32.585] [INFO] [default] - 2
+[2017-02-14 14:33:32.585] [INFO] [default] - 3
+[2017-02-14 14:33:32.589] [INFO] [default] - seas.chengggg
+[2017-02-14 14:33:32.597] [INFO] [default] - 有错误 ValidationError: User pass required
+[2017-02-14 14:33:40.828] [INFO] [default] - db connected
+[2017-02-14 14:33:40.832] [INFO] [default] - db open
+[2017-02-14 14:34:13.915] [INFO] [default] - db connected
+[2017-02-14 14:34:13.921] [INFO] [default] - db open
+[2017-02-14 14:34:16.929] [INFO] [default] - 2
+[2017-02-14 14:34:16.930] [INFO] [default] - 3
+[2017-02-14 14:34:16.960] [INFO] [default] - seas.chengggg
+[2017-02-14 14:34:16.976] [INFO] [default] - 有错误 User pass required
+[2017-02-14 14:35:30.977] [INFO] [default] - db connected
+[2017-02-14 14:35:30.981] [INFO] [default] - db open
+[2017-02-14 14:35:38.971] [INFO] [default] - 2
+[2017-02-14 14:35:38.972] [INFO] [default] - 3
+[2017-02-14 14:35:38.985] [INFO] [default] - seas.chengggg
+[2017-02-14 14:35:38.992] [INFO] [default] - 有错误 User pass required
+[2017-02-14 14:41:28.778] [INFO] [default] - db connected
+[2017-02-14 14:41:28.782] [INFO] [default] - db open
+[2017-02-14 14:41:32.926] [INFO] [default] - db connected
+[2017-02-14 14:41:32.929] [INFO] [default] - db open
+[2017-02-14 14:41:40.015] [INFO] [default] - db connected
+[2017-02-14 14:41:40.019] [INFO] [default] - db open
+[2017-02-14 14:42:08.482] [INFO] [default] - 2
+[2017-02-14 14:42:08.482] [INFO] [default] - 3
+[2017-02-14 14:42:08.488] [INFO] [default] - seas.chengggg
+[2017-02-14 14:42:08.496] [INFO] [default] - 有错误 User pass required
+[2017-02-14 14:42:12.100] [INFO] [default] - 2
+[2017-02-14 14:42:12.100] [INFO] [default] - 3
+[2017-02-14 14:42:12.102] [INFO] [default] - seas.chengggg
+[2017-02-14 14:42:12.117] [INFO] [default] - 4::::{ __v: 0,
+  user_email: 'seas.chengggg@centling.com',
+  user_pass: '123',
+  user_nickname: 'seas.chengggg',
+  user_url: 'www.seas.site',
+  user_status: 1,
+  _id: 58a2a6c4fc8d156b9f6771ff,
+  meta: [] }
+[2017-02-14 14:42:13.962] [INFO] [default] - 2
+[2017-02-14 14:42:13.964] [INFO] [default] - 有错误 Invalid email, it should be a centling email
+[2017-02-14 14:42:45.632] [INFO] [default] - 2
+[2017-02-14 14:42:45.633] [INFO] [default] - 有错误 Invalid email, it should be a centling email
+[2017-02-14 14:43:08.660] [INFO] [default] - db connected
+[2017-02-14 14:43:08.668] [INFO] [default] - db open
+[2017-02-14 14:43:16.400] [INFO] [default] - db connected
+[2017-02-14 14:43:16.404] [INFO] [default] - db open
+[2017-02-14 14:43:44.071] [INFO] [default] - db connected
+[2017-02-14 14:43:44.075] [INFO] [default] - db open
+[2017-02-14 14:43:47.579] [INFO] [default] - 有错误 Invalid email, it should be a centling email
+[2017-02-14 14:43:49.485] [INFO] [default] - 有错误 Invalid email, it should be a centling email
+[2017-02-14 14:43:50.486] [INFO] [default] - 有错误 Invalid email, it should be a centling email
+[2017-02-14 14:43:51.047] [INFO] [default] - 有错误 Invalid email, it should be a centling email
+[2017-02-14 14:43:51.296] [INFO] [default] - 有错误 Invalid email, it should be a centling email
+[2017-02-14 14:43:51.479] [INFO] [default] - 有错误 Invalid email, it should be a centling email
+[2017-02-14 14:43:51.641] [INFO] [default] - 有错误 Invalid email, it should be a centling email
+[2017-02-14 14:43:51.805] [INFO] [default] - 有错误 Invalid email, it should be a centling email
+[2017-02-14 14:43:51.960] [INFO] [default] - 有错误 Invalid email, it should be a centling email
+[2017-02-14 14:43:52.160] [INFO] [default] - 有错误 Invalid email, it should be a centling email
+[2017-02-14 14:43:52.433] [INFO] [default] - 有错误 Invalid email, it should be a centling email
+[2017-02-14 14:43:52.610] [INFO] [default] - 有错误 Invalid email, it should be a centling email
+[2017-02-14 14:43:52.785] [INFO] [default] - 有错误 Invalid email, it should be a centling email
+[2017-02-14 14:43:52.963] [INFO] [default] - 有错误 Invalid email, it should be a centling email
+[2017-02-14 14:43:53.128] [INFO] [default] - 有错误 Invalid email, it should be a centling email
+[2017-02-14 14:43:53.282] [INFO] [default] - 有错误 Invalid email, it should be a centling email
+[2017-02-14 14:43:53.468] [INFO] [default] - 有错误 Invalid email, it should be a centling email
+[2017-02-14 14:43:57.325] [INFO] [default] - 4::::{ __v: 0,
+  user_email: 'seas.chenggggg@centling.com',
+  user_pass: '123',
+  user_nickname: 'seas.chenggggg',
+  user_url: 'www.seas.site',
+  user_status: 1,
+  _id: 58a2a72dc4cb3b6bbfebf7af,
+  meta: [] }
+[2017-02-14 14:43:58.808] [INFO] [default] - 有错误 Invalid email, it should be a centling email
+[2017-02-14 14:43:59.981] [INFO] [default] - 有错误 Invalid email, it should be a centling email
+[2017-02-14 14:44:00.134] [INFO] [default] - 有错误 Invalid email, it should be a centling email
+[2017-02-14 14:44:00.347] [INFO] [default] - 有错误 Invalid email, it should be a centling email
+[2017-02-14 14:44:00.480] [INFO] [default] - 有错误 Invalid email, it should be a centling email
+[2017-02-14 14:44:31.295] [INFO] [default] - db connected
+[2017-02-14 14:44:31.300] [INFO] [default] - db open
+[2017-02-14 14:44:34.445] [INFO] [default] - db connected
+[2017-02-14 14:44:34.449] [INFO] [default] - db open
+[2017-02-14 14:44:49.674] [INFO] [default] - db connected
+[2017-02-14 14:44:49.678] [INFO] [default] - db open
+[2017-02-14 14:44:59.554] [INFO] [default] - db connected
+[2017-02-14 14:44:59.558] [INFO] [default] - db open
+[2017-02-14 14:45:14.846] [INFO] [default] - db connected
+[2017-02-14 14:45:14.849] [INFO] [default] - db open
+[2017-02-14 14:49:10.256] [INFO] [default] - db connected
+[2017-02-14 14:49:10.262] [INFO] [default] - db open
+[2017-02-14 14:49:42.940] [INFO] [default] - db connected
+[2017-02-14 14:49:42.945] [INFO] [default] - db open
+[2017-02-14 14:49:47.823] [INFO] [default] - db connected
+[2017-02-14 14:49:47.827] [INFO] [default] - db open
+[2017-02-14 14:49:56.351] [INFO] [default] - db connected
+[2017-02-14 14:49:56.355] [INFO] [default] - db open
+[2017-02-14 14:50:29.955] [INFO] [default] - db connected
+[2017-02-14 14:50:29.959] [INFO] [default] - db open
+[2017-02-14 14:50:48.502] [INFO] [default] - db connected
+[2017-02-14 14:50:48.506] [INFO] [default] - db open
+[2017-02-14 14:50:59.940] [INFO] [default] - db connected
+[2017-02-14 14:50:59.945] [INFO] [default] - db open
+[2017-02-14 14:51:21.829] [INFO] [default] - db connected
+[2017-02-14 14:51:21.835] [INFO] [default] - db open
+[2017-02-14 14:52:36.870] [INFO] [default] - db connected
+[2017-02-14 14:52:36.874] [INFO] [default] - db open
+[2017-02-14 14:56:30.609] [INFO] [default] - db connected
+[2017-02-14 14:56:30.613] [INFO] [default] - db open
+[2017-02-14 14:56:34.384] [INFO] [default] - db connected
+[2017-02-14 14:56:34.388] [INFO] [default] - db open
+[2017-02-14 14:56:53.095] [INFO] [default] - db connected
+[2017-02-14 14:56:53.099] [INFO] [default] - db open
+[2017-02-14 14:58:33.279] [INFO] [default] - db connected
+[2017-02-14 14:58:33.283] [INFO] [default] - db open
+[2017-02-14 14:58:37.287] [INFO] [default] - db connected
+[2017-02-14 14:58:37.293] [INFO] [default] - db open
+[2017-02-14 14:58:46.340] [INFO] [default] - db connected
+[2017-02-14 14:58:46.344] [INFO] [default] - db open
+[2017-02-14 14:58:58.981] [INFO] [default] - db connected
+[2017-02-14 14:58:58.985] [INFO] [default] - db open
+[2017-02-14 14:59:02.385] [INFO] [default] - db connected
+[2017-02-14 14:59:02.389] [INFO] [default] - db open
+[2017-02-14 14:59:05.669] [INFO] [default] - db connected
+[2017-02-14 14:59:05.675] [INFO] [default] - db open
+[2017-02-14 14:59:21.330] [INFO] [default] - db connected
+[2017-02-14 14:59:21.334] [INFO] [default] - db open
+[2017-02-14 14:59:45.592] [INFO] [default] - db connected
+[2017-02-14 14:59:45.596] [INFO] [default] - db open
+[2017-02-14 15:00:02.287] [INFO] [default] - db connected
+[2017-02-14 15:00:02.291] [INFO] [default] - db open
+[2017-02-14 15:00:19.274] [INFO] [default] - db connected
+[2017-02-14 15:00:19.278] [INFO] [default] - db open
+[2017-02-14 15:00:27.146] [INFO] [default] - db connected
+[2017-02-14 15:00:27.150] [INFO] [default] - db open
+[2017-02-14 15:00:45.410] [INFO] [default] - db connected
+[2017-02-14 15:00:45.416] [INFO] [default] - db open
+[2017-02-14 15:00:52.422] [INFO] [default] - db connected
+[2017-02-14 15:00:52.426] [INFO] [default] - db open

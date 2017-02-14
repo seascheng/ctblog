@@ -1,95 +1,51 @@
 var User = require('../model/user')
 
-var addUser = (email, pass, cb)=>{
+exports.signup = (email, pass, cb)=>{
 	if (!email.endsWith('@centling.com')) {
 		cb(-1, 'Invalid email, it should be a centling email');
 	};
-	var po = new Promise(function(resolve, reject) {
-	});
-	po.then(()=>{
-		Logger.info("111111");
-		User.findOne({user_email: email}, (err, result) => {
-			if (result) {
-				cb(-1, 'Existed email!');
-			}
-		})
-	});
 
-
-
-	User.findOne({user_email: email}).exec((err, result)=>{
-		Logger.info("1");
-		return result;
-	}).then((result)=>{
-		Logger.info("2");
-		if (result) {
-			// return Promise.reject('Invalid email, it should be a centling email');
-			throw "Invalid email, it should be a centling email";
+	User.findOne({user_email: email})
+	.then(user =>{
+		if (user) {
+			throw "Existed Email";
+		}else{
+			var emailList = email.split('@');
+			var nickName = emailList[0];
+			var user = new User({
+				user_email: email,
+				user_pass: pass,
+				user_nickname: nickName,
+				user_url: 'www.seas.site',
+				user_status: '1'
+			});
+			return user.save();
 		}
-	}).then(() => {
-		Logger.info("3");
-		var emailList = email.split('@');
-		var nickName = emailList[0];
-		var user = new User({
-			user_email: email,
-			user_pass: pass,
-			user_nickname: nickName,
-			user_url: 'www.seas.site',
-			user_status: '1'
-		});
-		Logger.info(nickName);
-		user.save(function (err) {
-			Logger.info(err.message);
-			if (err) {
-				return err.message;
+	}).then(user => {
+		cb(0, "Signup Success");
+	}).catch(error =>{
+		if (error.errors) {error = error.errors.user_pass.message;};
+		Logger.info("signup error: "+error);
+		cb(-1, error);
+	});
+}
+
+exports.signin = (email, pass, cb)=>{
+	User.findOne({user_email: email})
+	.then(user =>{
+		if (user) {
+			if (pass == user.user_pass) {
+				cb(0, "Signin Success");
 			}else{
-				return user;
+				throw "Invalid Password";
 			}
-		})
-	}).then((error)=>{
-		Logger.info("4");
-		if (error){
-			Logger.info("4444");
-  			throw error.message;
-  		}else{
-  			result = "Login success";
-  			return result;
-  		};
-	}).catch(
-		error =>{
-			Logger.info("有错误 "+error);
-			cb(-1, error);
+		}else{
+			throw "Unexisted Email";
 		}
-	);
-	// var emailList = email.split('@');
-	// var nickName = emailList[0];
-	// var user = new User({
-	// 	user_email: email,
-	// 	user_pass: pass,
-	// 	user_nickname: nickName,
-	// 	user_url: 'www.seas.site',
-	// 	user_status: '1'
-	// });
-	// user.save(function (err) {
- //  		if (err){
- //  			cb(-1, err);
- //  		}else{
- //  			cb(0, 'Signin success');
- //  		};
-  		
- //  	// saved!
-	// })
+	}).catch(error =>{
+		if (error.errors) {error = error.errors.user_pass.message;};
+		Logger.info("signin error: "+error);
+		cb(-1, error);
+	});
 }
 
-var findUserByEmail = (email)=>{
-	if (!email) {
-		return nil;
-	}
-	User.findOne({user_email: email}, (err, result) => {
-		if (result) {
-			cb(-1, 'Existed email!');
-		}
-	})
-}
-
-exports.addUser = addUser;
