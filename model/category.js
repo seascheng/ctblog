@@ -13,6 +13,10 @@ var categorySchema = new Schema({
 		type : String,
 		required : [true, 'Category required']
 	},
+	category_status :  {
+		type : Number,
+		default: 0
+	},  //0:正常 1:已删除
 	timestamps:{},
 })
 var Category = mongoose.model('Category', categorySchema);

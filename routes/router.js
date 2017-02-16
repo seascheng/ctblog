@@ -6,7 +6,9 @@ module.exports = function (app){
 	app.use(access);
 
 	app.use('/user', require('./user'));
-	app.use('/post', require('./posts'));
+	app.use('/post', require('./post'));
+	app.use('/comment', require('./comment'));
+	app.use('/category', require('./category'));
 
 	//404
 	app.use(function(req, res){

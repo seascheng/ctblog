@@ -6,11 +6,17 @@ module.exports = function (res, code, result) {
 			msg: result
 		});
 	}else{
-		var result = {
-			code:0,
-			msg: '操作成功',
-			result:result
+		if (!!result) {
+			res.json({
+				code:0,
+				msg: '操作成功',
+				result:result
+			})
+		}else{
+			res.json({
+				code:0,
+				msg: '操作成功'
+			})
 		}
-		res.json(result);
 	}
 };

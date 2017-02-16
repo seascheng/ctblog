@@ -1,6 +1,7 @@
 var dbconfig = require('../config/config').mongodb;
 var mongoose = require('mongoose');
 mongoose.connect(dbconfig);
+mongoose.Promise = global.Promise;
 
 db = mongoose.connection;
 

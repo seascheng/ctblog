@@ -1,9 +1,6 @@
 var router = require('express').Router();
 var User = require('../model/user')
-// var user = require('../model/user');
-
 var response = require('../utils/response')
-
 var checkNotLogin = require('../middlewares/check').checkNotLogin;
 
 // POST /user/signup 注册
@@ -31,15 +28,10 @@ router.post('/signup', (req, res, next) => {
 			});
 			return user.save();
 		}
-	}).then(user => {
-		if (!email.endsWith('@centling.com')) {
-	  		response(res, 0, user);
-		};
+	}).then(result => {
+		response(res, 0, result);
 	}).catch(error =>{
-		if (error.errors) {error = error.errors.user_pass.message;};
-		Logger.info("signup error: "+error);
-		// cb(-1, error);
-		response(res, -1, error);
+		response(res, -1, ""+error);
 	});
 });
 
@@ -60,9 +52,7 @@ router.post('/signin', (req, res, next) => {
 			throw "Unexisted Email";
 		}
 	}).catch(error =>{
-		if (error.errors) {error = error.errors.user_pass.message;};
-		Logger.info("signin error: "+error);
-		response(res, -1, error);
+		response(res, -1, ""+error);
 	});
 });
 

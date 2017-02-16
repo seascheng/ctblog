@@ -1015,3 +1015,568 @@
 [2017-02-14 16:07:07.169] [INFO] [default] - signin error: Invalid Password
 [2017-02-14 16:07:08.886] [INFO] [default] - signin error: Invalid Password
 [2017-02-14 16:07:27.282] [INFO] [default] - signin error: Unexisted Email
+[2017-02-14 16:11:16.481] [INFO] [default] - db connected
+[2017-02-14 16:11:16.486] [INFO] [default] - db open
+[2017-02-14 16:11:21.936] [INFO] [default] - db connected
+[2017-02-14 16:11:21.943] [INFO] [default] - db open
+[2017-02-14 16:15:08.357] [INFO] [default] - db connected
+[2017-02-14 16:15:08.361] [INFO] [default] - db open
+[2017-02-14 16:15:09.370] [INFO] [default] - db connected
+[2017-02-14 16:15:09.377] [INFO] [default] - db open
+[2017-02-14 16:21:41.890] [INFO] [default] - db connected
+[2017-02-14 16:21:41.897] [INFO] [default] - db open
+[2017-02-14 16:22:10.947] [INFO] [default] - db connected
+[2017-02-14 16:22:10.952] [INFO] [default] - db open
+[2017-02-14 16:22:16.400] [INFO] [default] - db connected
+[2017-02-14 16:22:16.404] [INFO] [default] - db open
+[2017-02-14 16:22:23.242] [INFO] [default] - db connected
+[2017-02-14 16:22:23.245] [INFO] [default] - db open
+[2017-02-14 16:29:56.113] [INFO] [default] - db connected
+[2017-02-14 16:29:56.117] [INFO] [default] - db open
+[2017-02-14 16:30:04.352] [INFO] [default] - db connected
+[2017-02-14 16:30:04.357] [INFO] [default] - db open
+[2017-02-14 16:30:08.326] [INFO] [default] - db connected
+[2017-02-14 16:30:08.329] [INFO] [default] - db open
+[2017-02-14 16:30:22.233] [INFO] [default] - db connected
+[2017-02-14 16:30:22.239] [INFO] [default] - db open
+[2017-02-14 16:30:35.813] [INFO] [default] - db connected
+[2017-02-14 16:30:35.820] [INFO] [default] - db open
+[2017-02-14 16:31:05.669] [INFO] [default] - db connected
+[2017-02-14 16:31:05.672] [INFO] [default] - db open
+[2017-02-15 09:24:13.931] [INFO] [default] - db connected
+[2017-02-15 09:24:13.937] [INFO] [default] - db open
+[2017-02-15 09:47:27.635] [INFO] [default] - signin error: Invalid Password
+[2017-02-15 09:47:55.473] [INFO] [default] - db connected
+[2017-02-15 09:47:55.478] [INFO] [default] - db open
+[2017-02-15 09:48:01.409] [INFO] [default] - db connected
+[2017-02-15 09:48:01.413] [INFO] [default] - db open
+[2017-02-15 09:48:08.457] [INFO] [default] - signin error: Invalid Password
+[2017-02-15 09:50:44.671] [INFO] [default] - db connected
+[2017-02-15 09:50:44.677] [INFO] [default] - db open
+[2017-02-15 09:51:04.488] [INFO] [default] - db connected
+[2017-02-15 09:51:04.492] [INFO] [default] - db open
+[2017-02-15 09:51:06.042] [INFO] [default] - signup error: ValidationError: Post title required
+[2017-02-15 09:51:45.493] [INFO] [default] - db connected
+[2017-02-15 09:51:45.497] [INFO] [default] - db open
+[2017-02-15 09:51:48.048] [INFO] [default] - signup error: ValidationError: Post title required
+[2017-02-15 09:52:07.684] [INFO] [default] - db connected
+[2017-02-15 09:52:07.689] [INFO] [default] - db open
+[2017-02-15 09:52:11.197] [INFO] [default] - db connected
+[2017-02-15 09:52:11.204] [INFO] [default] - db open
+[2017-02-15 09:52:12.331] [INFO] [default] - signup error: ValidationError: Post title required
+[2017-02-15 09:52:49.307] [INFO] [default] - db connected
+[2017-02-15 09:52:49.311] [INFO] [default] - db open
+[2017-02-15 09:53:28.749] [INFO] [default] - db connected
+[2017-02-15 09:53:28.755] [INFO] [default] - db open
+[2017-02-15 09:53:42.436] [INFO] [default] - db connected
+[2017-02-15 09:53:42.443] [INFO] [default] - db open
+[2017-02-15 09:53:49.006] [INFO] [default] - db connected
+[2017-02-15 09:53:49.011] [INFO] [default] - db open
+[2017-02-15 09:53:53.651] [INFO] [default] - db connected
+[2017-02-15 09:53:53.659] [INFO] [default] - db open
+[2017-02-15 09:53:56.854] [INFO] [default] - signup error: ValidationError: Post title required
+[2017-02-15 09:54:12.239] [INFO] [default] - db connected
+[2017-02-15 09:54:12.243] [INFO] [default] - db open
+[2017-02-15 09:54:13.143] [INFO] [default] - signup error: ValidationError: Post title required
+[2017-02-15 10:01:40.486] [INFO] [default] - db connected
+[2017-02-15 10:01:40.495] [INFO] [default] - db open
+[2017-02-15 10:01:45.032] [INFO] [default] - signup error: ValidationError: Post title required
+[2017-02-15 10:02:05.395] [INFO] [default] - db connected
+[2017-02-15 10:02:05.399] [INFO] [default] - db open
+[2017-02-15 10:02:09.060] [INFO] [default] - db connected
+[2017-02-15 10:02:09.066] [INFO] [default] - db open
+[2017-02-15 10:03:45.073] [INFO] [default] - db connected
+[2017-02-15 10:03:45.078] [INFO] [default] - db open
+[2017-02-15 10:03:47.820] [INFO] [default] - db connected
+[2017-02-15 10:03:47.825] [INFO] [default] - db open
+[2017-02-15 10:08:04.366] [INFO] [default] - db connected
+[2017-02-15 10:08:04.374] [INFO] [default] - db open
+[2017-02-15 10:11:38.776] [INFO] [default] - db connected
+[2017-02-15 10:11:38.780] [INFO] [default] - db open
+[2017-02-15 10:13:06.601] [INFO] [default] - db connected
+[2017-02-15 10:13:06.605] [INFO] [default] - db open
+[2017-02-15 10:14:35.133] [INFO] [default] - db connected
+[2017-02-15 10:14:35.137] [INFO] [default] - db open
+[2017-02-15 10:15:30.519] [INFO] [default] - db connected
+[2017-02-15 10:15:30.523] [INFO] [default] - db open
+[2017-02-15 10:41:44.423] [INFO] [default] - db connected
+[2017-02-15 10:41:44.427] [INFO] [default] - db open
+[2017-02-15 10:45:40.725] [INFO] [default] - db connected
+[2017-02-15 10:45:40.729] [INFO] [default] - db open
+[2017-02-15 10:47:38.693] [INFO] [default] - db connected
+[2017-02-15 10:47:38.697] [INFO] [default] - db open
+[2017-02-15 10:49:12.401] [INFO] [default] - db connected
+[2017-02-15 10:49:12.405] [INFO] [default] - db open
+[2017-02-15 10:49:42.922] [INFO] [default] - db connected
+[2017-02-15 10:49:42.926] [INFO] [default] - db open
+[2017-02-15 10:49:47.993] [INFO] [default] - db connected
+[2017-02-15 10:49:47.997] [INFO] [default] - db open
+[2017-02-15 10:50:15.395] [INFO] [default] - db connected
+[2017-02-15 10:50:15.399] [INFO] [default] - db open
+[2017-02-15 10:51:06.719] [INFO] [default] - db connected
+[2017-02-15 10:51:06.723] [INFO] [default] - db open
+[2017-02-15 10:52:11.083] [INFO] [default] - undefined
+[2017-02-15 10:52:21.284] [INFO] [default] - db connected
+[2017-02-15 10:52:21.289] [INFO] [default] - db open
+[2017-02-15 10:52:27.604] [INFO] [default] - db connected
+[2017-02-15 10:52:27.614] [INFO] [default] - db open
+[2017-02-15 10:52:28.567] [INFO] [default] - undefined
+[2017-02-15 10:52:39.106] [INFO] [default] - db connected
+[2017-02-15 10:52:39.111] [INFO] [default] - db open
+[2017-02-15 10:52:39.872] [INFO] [default] - undefined
+[2017-02-15 10:53:00.780] [INFO] [default] - undefined
+[2017-02-15 10:53:15.284] [INFO] [default] - db connected
+[2017-02-15 10:53:15.289] [INFO] [default] - db open
+[2017-02-15 10:54:19.810] [INFO] [default] - db connected
+[2017-02-15 10:54:19.817] [INFO] [default] - db open
+[2017-02-15 10:54:21.241] [INFO] [default] - userId:::::undefined
+[2017-02-15 10:54:50.457] [INFO] [default] - db connected
+[2017-02-15 10:54:50.463] [INFO] [default] - db open
+[2017-02-15 10:55:02.512] [INFO] [default] - db connected
+[2017-02-15 10:55:02.517] [INFO] [default] - db open
+[2017-02-15 10:55:10.225] [INFO] [default] - db connected
+[2017-02-15 10:55:10.233] [INFO] [default] - db open
+[2017-02-15 10:55:25.429] [INFO] [default] - userId:::::undefined
+[2017-02-15 10:56:22.647] [INFO] [default] - db connected
+[2017-02-15 10:56:22.651] [INFO] [default] - db open
+[2017-02-15 10:56:31.568] [INFO] [default] - userId:::::undefined
+[2017-02-15 10:56:32.949] [INFO] [default] - userId:::::undefined
+[2017-02-15 10:56:33.410] [INFO] [default] - userId:::::undefined
+[2017-02-15 10:56:33.662] [INFO] [default] - userId:::::undefined
+[2017-02-15 10:56:33.770] [INFO] [default] - userId:::::undefined
+[2017-02-15 10:56:33.899] [INFO] [default] - userId:::::undefined
+[2017-02-15 10:56:34.065] [INFO] [default] - userId:::::undefined
+[2017-02-15 10:58:01.377] [INFO] [default] - db connected
+[2017-02-15 10:58:01.383] [INFO] [default] - db open
+[2017-02-15 10:58:04.993] [INFO] [default] - db connected
+[2017-02-15 10:58:04.998] [INFO] [default] - db open
+[2017-02-15 10:58:06.532] [INFO] [default] - userId:::::undefined
+[2017-02-15 10:58:15.943] [INFO] [default] - db connected
+[2017-02-15 10:58:15.947] [INFO] [default] - db open
+[2017-02-15 10:58:16.613] [INFO] [default] - userId:::::58a2744624ff2365b33b2198
+[2017-02-15 10:58:49.369] [INFO] [default] - db connected
+[2017-02-15 10:58:49.375] [INFO] [default] - db open
+[2017-02-15 10:59:06.880] [INFO] [default] - db connected
+[2017-02-15 10:59:06.884] [INFO] [default] - db open
+[2017-02-15 10:59:07.964] [INFO] [default] - userId:::::58a2744624ff2365b33b2198
+[2017-02-15 10:59:19.197] [INFO] [default] - db connected
+[2017-02-15 10:59:19.201] [INFO] [default] - db open
+[2017-02-15 10:59:19.924] [INFO] [default] - userId:::::58a2744624ff2365b33b2198
+[2017-02-15 10:59:29.086] [INFO] [default] - db connected
+[2017-02-15 10:59:29.091] [INFO] [default] - db open
+[2017-02-15 10:59:33.301] [INFO] [default] - db connected
+[2017-02-15 10:59:33.305] [INFO] [default] - db open
+[2017-02-15 10:59:33.725] [INFO] [default] - userId:::::
+[2017-02-15 10:59:46.725] [INFO] [default] - db connected
+[2017-02-15 10:59:46.730] [INFO] [default] - db open
+[2017-02-15 10:59:47.336] [INFO] [default] - userId:::::
+[2017-02-15 10:59:56.663] [INFO] [default] - db connected
+[2017-02-15 10:59:56.668] [INFO] [default] - db open
+[2017-02-15 11:00:29.205] [INFO] [default] - db connected
+[2017-02-15 11:00:29.209] [INFO] [default] - db open
+[2017-02-15 11:00:30.361] [INFO] [default] - userId:::::
+[2017-02-15 11:00:39.276] [INFO] [default] - db connected
+[2017-02-15 11:00:39.281] [INFO] [default] - db open
+[2017-02-15 11:00:40.086] [INFO] [default] - userId:::::
+[2017-02-15 11:02:41.318] [INFO] [default] - db connected
+[2017-02-15 11:02:41.323] [INFO] [default] - db open
+[2017-02-15 11:02:43.458] [INFO] [default] - userId:::::58a2744624ff2365b33b2198
+[2017-02-15 11:05:16.338] [INFO] [default] - db connected
+[2017-02-15 11:05:16.342] [INFO] [default] - db open
+[2017-02-15 11:05:57.267] [INFO] [default] - db connected
+[2017-02-15 11:05:57.272] [INFO] [default] - db open
+[2017-02-15 11:10:07.265] [INFO] [default] - db connected
+[2017-02-15 11:10:07.274] [INFO] [default] - db open
+[2017-02-15 11:10:12.372] [INFO] [default] - userId:::::58a2744624ff2365b33b2198
+[2017-02-15 11:11:13.588] [INFO] [default] - userId:::::58a2744624ff2365b33b2198
+[2017-02-15 11:11:15.174] [INFO] [default] - userId:::::58a2744624ff2365b33b2198
+[2017-02-15 11:11:18.687] [INFO] [default] - userId:::::58a2744624ff2365b33b2198
+[2017-02-15 11:11:22.214] [INFO] [default] - userId:::::58a2744624ff2365b33b2198
+[2017-02-15 11:11:23.319] [INFO] [default] - userId:::::58a2744624ff2365b33b2198
+[2017-02-15 11:11:26.608] [INFO] [default] - userId:::::58a2744624ff2365b33b2198
+[2017-02-15 11:12:21.802] [INFO] [default] - db connected
+[2017-02-15 11:12:21.811] [INFO] [default] - db open
+[2017-02-15 11:12:35.053] [INFO] [default] - db connected
+[2017-02-15 11:12:35.059] [INFO] [default] - db open
+[2017-02-15 11:12:40.593] [INFO] [default] - db connected
+[2017-02-15 11:12:40.597] [INFO] [default] - db open
+[2017-02-15 11:12:52.768] [INFO] [default] - db connected
+[2017-02-15 11:12:52.772] [INFO] [default] - db open
+[2017-02-15 11:20:13.382] [INFO] [default] - db connected
+[2017-02-15 11:20:13.387] [INFO] [default] - db open
+[2017-02-15 11:21:13.703] [INFO] [default] - userId:::::58a2744624ff2365b33b2198
+[2017-02-15 11:22:41.997] [INFO] [default] - db connected
+[2017-02-15 11:22:42.003] [INFO] [default] - db open
+[2017-02-15 11:24:28.086] [INFO] [default] - db connected
+[2017-02-15 11:24:28.090] [INFO] [default] - db open
+[2017-02-15 11:24:53.469] [INFO] [default] - db connected
+[2017-02-15 11:24:53.473] [INFO] [default] - db open
+[2017-02-15 11:25:06.687] [INFO] [default] - db connected
+[2017-02-15 11:25:06.691] [INFO] [default] - db open
+[2017-02-15 11:29:12.435] [INFO] [default] - db connected
+[2017-02-15 11:29:12.439] [INFO] [default] - db open
+[2017-02-15 11:29:24.168] [INFO] [default] - db connected
+[2017-02-15 11:29:24.174] [INFO] [default] - db open
+[2017-02-15 11:30:23.656] [INFO] [default] - db connected
+[2017-02-15 11:30:23.664] [INFO] [default] - db open
+[2017-02-15 11:31:57.022] [INFO] [default] - db connected
+[2017-02-15 11:31:57.027] [INFO] [default] - db open
+[2017-02-15 11:32:02.132] [INFO] [default] - db connected
+[2017-02-15 11:32:02.138] [INFO] [default] - db open
+[2017-02-15 11:33:19.901] [INFO] [default] - db connected
+[2017-02-15 11:33:19.906] [INFO] [default] - db open
+[2017-02-15 11:33:33.870] [INFO] [default] - db connected
+[2017-02-15 11:33:33.876] [INFO] [default] - db open
+[2017-02-15 11:33:37.051] [INFO] [default] - db connected
+[2017-02-15 11:33:37.055] [INFO] [default] - db open
+[2017-02-15 11:33:53.444] [INFO] [default] - db connected
+[2017-02-15 11:33:53.451] [INFO] [default] - db open
+[2017-02-15 11:33:58.689] [INFO] [default] - db connected
+[2017-02-15 11:33:58.693] [INFO] [default] - db open
+[2017-02-15 11:35:19.553] [INFO] [default] - db connected
+[2017-02-15 11:35:19.558] [INFO] [default] - db open
+[2017-02-15 11:35:40.172] [INFO] [default] - db connected
+[2017-02-15 11:35:40.179] [INFO] [default] - db open
+[2017-02-15 11:36:20.789] [INFO] [default] - db connected
+[2017-02-15 11:36:20.793] [INFO] [default] - db open
+[2017-02-15 13:41:28.389] [INFO] [default] - db connected
+[2017-02-15 13:41:28.395] [INFO] [default] - db open
+[2017-02-15 13:41:44.220] [INFO] [default] - db connected
+[2017-02-15 13:41:44.224] [INFO] [default] - db open
+[2017-02-15 13:45:53.280] [INFO] [default] - db connected
+[2017-02-15 13:45:53.286] [INFO] [default] - db open
+[2017-02-15 13:46:22.146] [INFO] [default] - userId:::::58a2744624ff2365b33b2198
+[2017-02-15 13:47:52.905] [INFO] [default] - db connected
+[2017-02-15 13:47:52.910] [INFO] [default] - db open
+[2017-02-15 13:47:54.093] [INFO] [default] - userId:::::58a2744624ff2365b33b2198
+[2017-02-15 13:47:54.394] [INFO] [default] - userId:::::58a2744624ff2365b33b2198
+[2017-02-15 14:16:37.106] [INFO] [default] - db connected
+[2017-02-15 14:16:37.110] [INFO] [default] - db open
+[2017-02-15 14:50:28.821] [INFO] [default] - db connected
+[2017-02-15 14:50:28.826] [INFO] [default] - db open
+[2017-02-15 14:50:54.481] [INFO] [default] - db connected
+[2017-02-15 14:50:54.486] [INFO] [default] - db open
+[2017-02-15 14:51:17.705] [INFO] [default] - db connected
+[2017-02-15 14:51:17.709] [INFO] [default] - db open
+[2017-02-15 14:51:32.540] [INFO] [default] - db connected
+[2017-02-15 14:51:32.544] [INFO] [default] - db open
+[2017-02-15 14:52:01.482] [INFO] [default] - db connected
+[2017-02-15 14:52:01.494] [INFO] [default] - db open
+[2017-02-15 14:52:23.436] [INFO] [default] - db connected
+[2017-02-15 14:52:23.441] [INFO] [default] - db open
+[2017-02-15 14:53:19.237] [INFO] [default] - db connected
+[2017-02-15 14:53:19.241] [INFO] [default] - db open
+[2017-02-15 14:53:26.521] [INFO] [default] - db connected
+[2017-02-15 14:53:26.526] [INFO] [default] - db open
+[2017-02-15 14:53:53.317] [INFO] [default] - db connected
+[2017-02-15 14:53:53.322] [INFO] [default] - db open
+[2017-02-15 14:54:42.558] [INFO] [default] - db connected
+[2017-02-15 14:54:42.568] [INFO] [default] - db open
+[2017-02-15 14:54:59.699] [INFO] [default] - db connected
+[2017-02-15 14:54:59.704] [INFO] [default] - db open
+[2017-02-15 14:55:26.880] [INFO] [default] - db connected
+[2017-02-15 14:55:26.887] [INFO] [default] - db open
+[2017-02-15 14:55:45.193] [INFO] [default] - db connected
+[2017-02-15 14:55:45.198] [INFO] [default] - db open
+[2017-02-15 14:55:58.843] [INFO] [default] - db connected
+[2017-02-15 14:55:58.849] [INFO] [default] - db open
+[2017-02-15 14:56:28.400] [INFO] [default] - db connected
+[2017-02-15 14:56:28.404] [INFO] [default] - db open
+[2017-02-15 14:57:40.990] [INFO] [default] - db connected
+[2017-02-15 14:57:40.994] [INFO] [default] - db open
+[2017-02-15 14:57:54.122] [INFO] [default] - db connected
+[2017-02-15 14:57:54.126] [INFO] [default] - db open
+[2017-02-15 14:58:17.378] [INFO] [default] - db connected
+[2017-02-15 14:58:17.388] [INFO] [default] - db open
+[2017-02-15 14:58:34.797] [INFO] [default] - db connected
+[2017-02-15 14:58:34.801] [INFO] [default] - db open
+[2017-02-15 14:58:47.811] [INFO] [default] - db connected
+[2017-02-15 14:58:47.817] [INFO] [default] - db open
+[2017-02-15 14:59:01.077] [INFO] [default] - db connected
+[2017-02-15 14:59:01.083] [INFO] [default] - db open
+[2017-02-15 15:00:36.866] [INFO] [default] - db connected
+[2017-02-15 15:00:36.870] [INFO] [default] - db open
+[2017-02-15 15:01:21.907] [INFO] [default] - db connected
+[2017-02-15 15:01:21.911] [INFO] [default] - db open
+[2017-02-15 15:01:51.920] [INFO] [default] - db connected
+[2017-02-15 15:01:51.926] [INFO] [default] - db open
+[2017-02-15 15:02:28.544] [INFO] [default] - db connected
+[2017-02-15 15:02:28.548] [INFO] [default] - db open
+[2017-02-15 15:02:32.264] [INFO] [default] - db connected
+[2017-02-15 15:02:32.268] [INFO] [default] - db open
+[2017-02-15 15:02:47.293] [INFO] [default] - db connected
+[2017-02-15 15:02:47.297] [INFO] [default] - db open
+[2017-02-15 15:02:59.937] [INFO] [default] - db connected
+[2017-02-15 15:02:59.942] [INFO] [default] - db open
+[2017-02-15 15:03:29.544] [INFO] [default] - db connected
+[2017-02-15 15:03:29.549] [INFO] [default] - db open
+[2017-02-15 15:03:50.338] [INFO] [default] - db connected
+[2017-02-15 15:03:50.342] [INFO] [default] - db open
+[2017-02-15 15:04:29.329] [INFO] [default] - db connected
+[2017-02-15 15:04:29.335] [INFO] [default] - db open
+[2017-02-15 15:04:43.510] [INFO] [default] - db connected
+[2017-02-15 15:04:43.514] [INFO] [default] - db open
+[2017-02-15 15:05:00.802] [INFO] [default] - db connected
+[2017-02-15 15:05:00.809] [INFO] [default] - db open
+[2017-02-15 15:05:05.920] [INFO] [default] - db connected
+[2017-02-15 15:05:05.925] [INFO] [default] - db open
+[2017-02-15 15:05:08.020] [INFO] [default] - db connected
+[2017-02-15 15:05:08.025] [INFO] [default] - db open
+[2017-02-15 15:05:10.063] [INFO] [default] - db connected
+[2017-02-15 15:05:10.068] [INFO] [default] - db open
+[2017-02-15 15:05:11.949] [INFO] [default] - db connected
+[2017-02-15 15:05:11.955] [INFO] [default] - db open
+[2017-02-15 15:05:19.621] [INFO] [default] - db connected
+[2017-02-15 15:05:19.628] [INFO] [default] - db open
+[2017-02-15 15:05:36.323] [INFO] [default] - db connected
+[2017-02-15 15:05:36.329] [INFO] [default] - db open
+[2017-02-15 15:06:08.537] [INFO] [default] - db connected
+[2017-02-15 15:06:08.542] [INFO] [default] - db open
+[2017-02-15 15:19:05.790] [INFO] [default] - db connected
+[2017-02-15 15:19:05.796] [INFO] [default] - db open
+[2017-02-15 15:19:29.173] [INFO] [default] - db connected
+[2017-02-15 15:19:29.181] [INFO] [default] - db open
+[2017-02-15 15:19:48.774] [INFO] [default] - db connected
+[2017-02-15 15:19:48.778] [INFO] [default] - db open
+[2017-02-15 15:21:19.827] [INFO] [default] - db connected
+[2017-02-15 15:21:19.833] [INFO] [default] - db open
+[2017-02-15 15:21:40.507] [INFO] [default] - db connected
+[2017-02-15 15:21:40.512] [INFO] [default] - db open
+[2017-02-15 15:21:45.036] [INFO] [default] - db connected
+[2017-02-15 15:21:45.040] [INFO] [default] - db open
+[2017-02-15 15:21:49.663] [INFO] [default] - db connected
+[2017-02-15 15:21:49.670] [INFO] [default] - db open
+[2017-02-15 15:21:54.870] [INFO] [default] - db connected
+[2017-02-15 15:21:54.877] [INFO] [default] - db open
+[2017-02-15 15:22:04.533] [INFO] [default] - db connected
+[2017-02-15 15:22:04.537] [INFO] [default] - db open
+[2017-02-15 15:22:14.236] [INFO] [default] - db connected
+[2017-02-15 15:22:14.241] [INFO] [default] - db open
+[2017-02-15 15:22:23.569] [INFO] [default] - db connected
+[2017-02-15 15:22:23.573] [INFO] [default] - db open
+[2017-02-15 15:23:35.197] [INFO] [default] - db connected
+[2017-02-15 15:23:35.204] [INFO] [default] - db open
+[2017-02-15 15:23:58.024] [INFO] [default] - db connected
+[2017-02-15 15:23:58.031] [INFO] [default] - db open
+[2017-02-15 15:24:05.855] [INFO] [default] - db connected
+[2017-02-15 15:24:05.859] [INFO] [default] - db open
+[2017-02-15 15:24:11.257] [INFO] [default] - db connected
+[2017-02-15 15:24:11.261] [INFO] [default] - db open
+[2017-02-15 15:24:51.193] [INFO] [default] - db connected
+[2017-02-15 15:24:51.197] [INFO] [default] - db open
+[2017-02-15 15:25:01.369] [INFO] [default] - db connected
+[2017-02-15 15:25:01.373] [INFO] [default] - db open
+[2017-02-15 15:25:29.286] [INFO] [default] - db connected
+[2017-02-15 15:25:29.291] [INFO] [default] - db open
+[2017-02-15 15:25:46.870] [INFO] [default] - db connected
+[2017-02-15 15:25:46.875] [INFO] [default] - db open
+[2017-02-15 15:26:27.363] [INFO] [default] - db connected
+[2017-02-15 15:26:27.368] [INFO] [default] - db open
+[2017-02-15 15:26:35.212] [INFO] [default] - db connected
+[2017-02-15 15:26:35.220] [INFO] [default] - db open
+[2017-02-15 15:26:46.318] [INFO] [default] - db connected
+[2017-02-15 15:26:46.323] [INFO] [default] - db open
+[2017-02-15 15:27:15.081] [INFO] [default] - db connected
+[2017-02-15 15:27:15.085] [INFO] [default] - db open
+[2017-02-15 15:30:31.140] [INFO] [default] - db connected
+[2017-02-15 15:30:31.145] [INFO] [default] - db open
+[2017-02-15 15:42:11.707] [INFO] [default] - db connected
+[2017-02-15 15:42:11.713] [INFO] [default] - db open
+[2017-02-15 15:42:27.147] [INFO] [default] - db connected
+[2017-02-15 15:42:27.154] [INFO] [default] - db open
+[2017-02-15 15:42:31.444] [INFO] [default] - db connected
+[2017-02-15 15:42:31.449] [INFO] [default] - db open
+[2017-02-15 15:43:10.067] [INFO] [default] - db connected
+[2017-02-15 15:43:10.072] [INFO] [default] - db open
+[2017-02-15 15:43:28.604] [INFO] [default] - db connected
+[2017-02-15 15:43:28.609] [INFO] [default] - db open
+[2017-02-15 15:43:36.394] [INFO] [default] - db connected
+[2017-02-15 15:43:36.398] [INFO] [default] - db open
+[2017-02-15 15:43:51.580] [INFO] [default] - db connected
+[2017-02-15 15:43:51.587] [INFO] [default] - db open
+[2017-02-15 15:43:53.392] [INFO] [default] - db connected
+[2017-02-15 15:43:53.396] [INFO] [default] - db open
+[2017-02-15 15:44:57.711] [INFO] [default] - db connected
+[2017-02-15 15:44:57.715] [INFO] [default] - db open
+[2017-02-15 15:45:04.923] [INFO] [default] - db connected
+[2017-02-15 15:45:04.927] [INFO] [default] - db open
+[2017-02-15 15:45:31.576] [INFO] [default] - db connected
+[2017-02-15 15:45:31.580] [INFO] [default] - db open
+[2017-02-15 15:46:14.219] [INFO] [default] - db connected
+[2017-02-15 15:46:14.223] [INFO] [default] - db open
+[2017-02-15 15:46:44.585] [INFO] [default] - db connected
+[2017-02-15 15:46:44.589] [INFO] [default] - db open
+[2017-02-15 15:47:15.549] [INFO] [default] - db connected
+[2017-02-15 15:47:15.554] [INFO] [default] - db open
+[2017-02-15 15:47:48.976] [INFO] [default] - db connected
+[2017-02-15 15:47:48.981] [INFO] [default] - db open
+[2017-02-15 15:48:14.113] [INFO] [default] - db connected
+[2017-02-15 15:48:14.123] [INFO] [default] - db open
+[2017-02-15 15:48:51.686] [INFO] [default] - db connected
+[2017-02-15 15:48:51.690] [INFO] [default] - db open
+[2017-02-15 15:49:02.340] [INFO] [default] - db connected
+[2017-02-15 15:49:02.347] [INFO] [default] - db open
+[2017-02-15 15:49:11.059] [INFO] [default] - db connected
+[2017-02-15 15:49:11.066] [INFO] [default] - db open
+[2017-02-15 15:49:46.809] [INFO] [default] - db connected
+[2017-02-15 15:49:46.813] [INFO] [default] - db open
+[2017-02-15 15:49:48.553] [INFO] [default] - db connected
+[2017-02-15 15:49:48.558] [INFO] [default] - db open
+[2017-02-15 15:49:54.400] [INFO] [default] - db connected
+[2017-02-15 15:49:54.406] [INFO] [default] - db open
+[2017-02-15 15:49:59.576] [INFO] [default] - db connected
+[2017-02-15 15:49:59.580] [INFO] [default] - db open
+[2017-02-15 15:50:02.469] [INFO] [default] - db connected
+[2017-02-15 15:50:02.473] [INFO] [default] - db open
+[2017-02-15 15:50:04.501] [INFO] [default] - db connected
+[2017-02-15 15:50:04.506] [INFO] [default] - db open
+[2017-02-15 15:50:07.002] [INFO] [default] - db connected
+[2017-02-15 15:50:07.010] [INFO] [default] - db open
+[2017-02-15 15:50:09.629] [INFO] [default] - db connected
+[2017-02-15 15:50:09.635] [INFO] [default] - db open
+[2017-02-15 15:50:16.551] [INFO] [default] - db connected
+[2017-02-15 15:50:16.557] [INFO] [default] - db open
+[2017-02-15 15:50:19.360] [INFO] [default] - db connected
+[2017-02-15 15:50:19.365] [INFO] [default] - db open
+[2017-02-15 15:50:23.715] [INFO] [default] - db connected
+[2017-02-15 15:50:23.727] [INFO] [default] - db open
+[2017-02-15 15:50:44.380] [INFO] [default] - db connected
+[2017-02-15 15:50:44.385] [INFO] [default] - db open
+[2017-02-15 16:23:10.329] [INFO] [default] - db connected
+[2017-02-15 16:23:10.333] [INFO] [default] - db open
+[2017-02-15 16:23:50.085] [INFO] [default] - db connected
+[2017-02-15 16:23:50.089] [INFO] [default] - db open
+[2017-02-15 16:33:17.543] [INFO] [default] - db connected
+[2017-02-15 16:33:17.546] [INFO] [default] - db open
+[2017-02-15 16:33:20.394] [INFO] [default] - db connected
+[2017-02-15 16:33:20.398] [INFO] [default] - db open
+[2017-02-15 16:33:23.035] [INFO] [default] - db connected
+[2017-02-15 16:33:23.040] [INFO] [default] - db open
+[2017-02-15 16:34:09.783] [INFO] [default] - db connected
+[2017-02-15 16:34:09.788] [INFO] [default] - db open
+[2017-02-15 16:34:26.006] [INFO] [default] - db connected
+[2017-02-15 16:34:26.011] [INFO] [default] - db open
+[2017-02-15 16:34:50.130] [INFO] [default] - db connected
+[2017-02-15 16:34:50.135] [INFO] [default] - db open
+[2017-02-15 16:35:27.454] [INFO] [default] - db connected
+[2017-02-15 16:35:27.458] [INFO] [default] - db open
+[2017-02-15 16:35:48.348] [INFO] [default] - db connected
+[2017-02-15 16:35:48.352] [INFO] [default] - db open
+[2017-02-15 16:35:52.135] [INFO] [default] - db connected
+[2017-02-15 16:35:52.139] [INFO] [default] - db open
+[2017-02-15 16:36:51.923] [INFO] [default] - db connected
+[2017-02-15 16:36:51.927] [INFO] [default] - db open
+[2017-02-15 16:37:05.922] [INFO] [default] - db connected
+[2017-02-15 16:37:05.925] [INFO] [default] - db open
+[2017-02-15 16:37:27.052] [INFO] [default] - db connected
+[2017-02-15 16:37:27.056] [INFO] [default] - db open
+[2017-02-15 16:37:41.443] [INFO] [default] - db connected
+[2017-02-15 16:37:41.447] [INFO] [default] - db open
+[2017-02-15 16:37:50.039] [INFO] [default] - db connected
+[2017-02-15 16:37:50.042] [INFO] [default] - db open
+[2017-02-15 16:38:06.255] [INFO] [default] - db connected
+[2017-02-15 16:38:06.259] [INFO] [default] - db open
+[2017-02-15 16:40:13.609] [INFO] [default] - db connected
+[2017-02-15 16:40:13.612] [INFO] [default] - db open
+[2017-02-15 16:40:51.999] [INFO] [default] - db connected
+[2017-02-15 16:40:52.003] [INFO] [default] - db open
+[2017-02-15 16:48:25.940] [INFO] [default] - db connected
+[2017-02-15 16:48:25.945] [INFO] [default] - db open
+[2017-02-15 16:49:15.680] [INFO] [default] - db connected
+[2017-02-15 16:49:15.686] [INFO] [default] - db open
+[2017-02-15 16:51:23.329] [INFO] [default] - db connected
+[2017-02-15 16:51:23.337] [INFO] [default] - db open
+[2017-02-15 16:54:14.381] [INFO] [default] - db connected
+[2017-02-15 16:54:14.386] [INFO] [default] - db open
+[2017-02-15 16:54:27.974] [INFO] [default] - category::::undefined
+[2017-02-15 16:55:01.973] [INFO] [default] - category::::undefined
+[2017-02-15 16:55:02.714] [INFO] [default] - category::::undefined
+[2017-02-15 16:55:03.250] [INFO] [default] - category::::undefined
+[2017-02-15 16:55:03.407] [INFO] [default] - category::::undefined
+[2017-02-15 16:55:03.616] [INFO] [default] - category::::undefined
+[2017-02-15 16:55:04.391] [INFO] [default] - category::::undefined
+[2017-02-15 16:55:05.002] [INFO] [default] - category::::undefined
+[2017-02-15 16:55:05.530] [INFO] [default] - category::::undefined
+[2017-02-15 16:55:05.706] [INFO] [default] - category::::undefined
+[2017-02-15 16:55:05.886] [INFO] [default] - category::::undefined
+[2017-02-15 16:55:06.044] [INFO] [default] - category::::undefined
+[2017-02-15 16:55:06.195] [INFO] [default] - category::::undefined
+[2017-02-15 16:55:06.377] [INFO] [default] - category::::undefined
+[2017-02-15 16:55:06.578] [INFO] [default] - category::::undefined
+[2017-02-15 16:55:06.778] [INFO] [default] - category::::undefined
+[2017-02-15 16:55:06.976] [INFO] [default] - category::::undefined
+[2017-02-15 16:55:07.155] [INFO] [default] - category::::undefined
+[2017-02-15 16:55:07.343] [INFO] [default] - category::::undefined
+[2017-02-15 16:55:07.522] [INFO] [default] - category::::undefined
+[2017-02-15 16:55:07.690] [INFO] [default] - category::::undefined
+[2017-02-15 16:55:07.873] [INFO] [default] - category::::undefined
+[2017-02-15 16:55:08.046] [INFO] [default] - category::::undefined
+[2017-02-15 16:55:08.214] [INFO] [default] - category::::undefined
+[2017-02-15 16:55:08.442] [INFO] [default] - category::::undefined
+[2017-02-15 16:55:08.907] [INFO] [default] - category::::undefined
+[2017-02-15 16:55:09.357] [INFO] [default] - category::::undefined
+[2017-02-15 16:55:09.564] [INFO] [default] - category::::undefined
+[2017-02-15 16:55:09.733] [INFO] [default] - category::::undefined
+[2017-02-15 16:55:09.898] [INFO] [default] - category::::undefined
+[2017-02-15 16:55:10.059] [INFO] [default] - category::::undefined
+[2017-02-15 16:55:10.225] [INFO] [default] - category::::undefined
+[2017-02-15 16:55:10.383] [INFO] [default] - category::::undefined
+[2017-02-15 16:55:10.625] [INFO] [default] - category::::undefined
+[2017-02-15 16:55:11.065] [INFO] [default] - category::::undefined
+[2017-02-15 16:55:11.450] [INFO] [default] - category::::undefined
+[2017-02-15 16:55:11.828] [INFO] [default] - category::::undefined
+[2017-02-15 16:55:12.074] [INFO] [default] - category::::undefined
+[2017-02-15 16:55:12.396] [INFO] [default] - category::::undefined
+[2017-02-15 16:55:16.865] [INFO] [default] - db connected
+[2017-02-15 16:55:16.871] [INFO] [default] - db open
+[2017-02-15 16:55:17.804] [INFO] [default] - category::::undefined
+[2017-02-15 16:55:41.858] [INFO] [default] - category::::undefined
+[2017-02-15 16:55:47.423] [INFO] [default] - category::::undefined
+[2017-02-15 16:56:13.234] [INFO] [default] - db connected
+[2017-02-15 16:56:13.240] [INFO] [default] - db open
+[2017-02-15 16:56:14.647] [INFO] [default] - category::::undefined
+[2017-02-15 16:56:15.847] [INFO] [default] - category::::undefined
+[2017-02-15 16:57:49.037] [INFO] [default] - db connected
+[2017-02-15 16:57:49.042] [INFO] [default] - db open
+[2017-02-15 16:57:53.960] [INFO] [default] - db connected
+[2017-02-15 16:57:53.965] [INFO] [default] - db open
+[2017-02-15 16:58:17.410] [INFO] [default] - db connected
+[2017-02-15 16:58:17.416] [INFO] [default] - db open
+[2017-02-15 16:58:25.114] [INFO] [default] - db connected
+[2017-02-15 16:58:25.119] [INFO] [default] - db open
+[2017-02-15 16:58:48.931] [INFO] [default] - db connected
+[2017-02-15 16:58:48.935] [INFO] [default] - db open
+[2017-02-15 16:59:23.011] [INFO] [default] - db connected
+[2017-02-15 16:59:23.015] [INFO] [default] - db open
+[2017-02-15 16:59:29.113] [INFO] [default] - db connected
+[2017-02-15 16:59:29.117] [INFO] [default] - db open
+[2017-02-15 16:59:33.706] [INFO] [default] - category::::undefined
+[2017-02-15 16:59:44.841] [INFO] [default] - db connected
+[2017-02-15 16:59:44.847] [INFO] [default] - db open
+[2017-02-15 16:59:45.815] [INFO] [default] - category::::undefined
+[2017-02-15 18:12:37.821] [INFO] [default] - db connected
+[2017-02-15 18:12:37.825] [INFO] [default] - db open
+[2017-02-15 18:13:10.646] [INFO] [default] - db connected
+[2017-02-15 18:13:10.650] [INFO] [default] - db open
+[2017-02-15 18:13:40.390] [INFO] [default] - db connected
+[2017-02-15 18:13:40.395] [INFO] [default] - db open
+[2017-02-15 18:13:58.823] [INFO] [default] - db connected
+[2017-02-15 18:13:58.831] [INFO] [default] - db open
+[2017-02-15 18:14:00.593] [INFO] [default] - delete category:{ _id: 58a414377cbfee7e2da55ac1,
+  user_id: 58a2744624ff2365b33b2198,
+  category_name: 'iOS开发',
+  __v: 0,
+  category_status: 1 }
+[2017-02-15 18:14:29.761] [INFO] [default] - db connected
+[2017-02-15 18:14:29.765] [INFO] [default] - db open
+[2017-02-15 18:14:57.069] [INFO] [default] - db connected
+[2017-02-15 18:14:57.074] [INFO] [default] - db open
+[2017-02-15 18:15:02.587] [INFO] [default] - db connected
+[2017-02-15 18:15:02.593] [INFO] [default] - db open
+[2017-02-15 18:15:09.529] [INFO] [default] - category::::undefined
+[2017-02-15 18:15:39.062] [INFO] [default] - db connected
+[2017-02-15 18:15:39.067] [INFO] [default] - db open
+[2017-02-15 18:15:39.900] [INFO] [default] - category::::undefined
+[2017-02-15 18:15:43.988] [INFO] [default] - category::::undefined
+[2017-02-15 18:15:51.397] [INFO] [default] - db connected
+[2017-02-15 18:15:51.401] [INFO] [default] - db open
