@@ -1,7 +1,9 @@
 var router = require('express').Router();
 var User = require('../model/user')
 var response = require('../utils/response')
-var checkNotLogin = require('../middlewares/check').checkNotLogin;
+var jwt = require('jsonwebtoken')
+var tokenConfig = require('../config/config').token
+var checkNotLogin = require('../middlewares/check').checkNotLogin
 
 // POST /user/signup 注册
 router.post('/signup', (req, res, next) => {
@@ -44,7 +46,15 @@ router.post('/signin', (req, res, next) => {
 	.then(user =>{
 		if (user) {
 			if (pass == user.user_pass) {
-				response(res, 0, user);
+				var result = {};
+				var authToken = jwt.sign({
+					userId: user._id
+				}, tokenConfig.secret, {
+					// expiresIn: tokenConfig.expiresIn + ' days'
+					expiresIn: 600
+				});
+  				result.token = authToken;
+				response(res, 0, authToken);
 			}else{
 				throw "Invalid Password";
 			}

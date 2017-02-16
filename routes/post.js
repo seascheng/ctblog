@@ -1,13 +1,11 @@
-var router = require('express').Router();
-var response = require('../utils/response');
+var router = require('express').Router()
+var response = require('../utils/response')
 var Post = require('../model/post')
-
-
-// var checkLogin = require('../middlewares/check').checkLogin;
+var checkToken = require('../middlewares/check').checkToken;
 
 // POST /post/create 发表文章页
 router.post('/create', function(req, res, next) {
-  var userId = req.body.userId;
+  var userId = req.userId;
   var postTitle = req.body.postTitle;
   var postContent = req.body.postContent;
   var postCategory = req.body.postCategory;
@@ -36,14 +34,14 @@ router.get('/view/:postId', function(req, res, next){
 })
 
 // GET /list 查看文章列表
-router.get('/list', function(req, res, next){
-  var userId = req.query.userId;
+router.get('/list', checkToken,function(req, res, next){
+  var userId = req.userId;
   var keyword = req.query.keyword || '';
   var category = req.query.category;
   var tag = req.query.tag || [];
   var index = req.query.index || 0;
   var limit = req.query.limit || 5;
-  Logger.info("category::::"+category);
+  // Logger.info("category::::"+category);
   var query = {};
   userId?query.post_user=userId:1;
   keyword?query.post_title=new RegExp(''+keyword+'', "i"):1;
@@ -61,7 +59,8 @@ router.get('/list', function(req, res, next){
 
 
 // POST /eidt/:postId 编辑文章页
-router.post('/eidt/:postId', function(req, res, next) {
+router.post('/eidt/:postId', checkToken, function(req, res, next) {
+  Logger.info("userId:" + req.userId);
   var postId = req.params.postId;
   var postTitle = req.body.postTitle;
   var postContent = req.body.postContent;
@@ -82,7 +81,7 @@ router.post('/eidt/:postId', function(req, res, next) {
 
 
 // GET /delete/:postId 删除文章页
-router.get('/delete/:postId', function(req, res, next) {
+router.get('/delete/:postId', checkToken, function(req, res, next) {
   var postId = req.params.postId;
   // Post.findOneAndRemove({_id:postId})
   Post.findOneAndUpdate({_id:postId}, {post_status:1}, {new: true})

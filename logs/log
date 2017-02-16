@@ -1,1 +1,176 @@
 
+[2017-02-16 17:01:09.301] [INFO] [default] - db connected
+[2017-02-16 17:01:09.305] [INFO] [default] - db open
+[2017-02-16 17:46:55.196] [INFO] [default] - db connected
+[2017-02-16 17:46:55.202] [INFO] [default] - db open
+[2017-02-16 17:47:15.810] [INFO] [default] - db connected
+[2017-02-16 17:47:15.815] [INFO] [default] - db open
+[2017-02-16 17:47:17.122] [INFO] [default] - db connected
+[2017-02-16 17:47:17.127] [INFO] [default] - db open
+[2017-02-16 17:47:26.801] [INFO] [default] - db connected
+[2017-02-16 17:47:26.806] [INFO] [default] - db open
+[2017-02-16 17:47:34.717] [INFO] [default] - db connected
+[2017-02-16 17:47:34.731] [INFO] [default] - db open
+[2017-02-16 17:48:06.496] [INFO] [default] - db connected
+[2017-02-16 17:48:06.502] [INFO] [default] - db open
+[2017-02-16 17:48:18.640] [INFO] [default] - db connected
+[2017-02-16 17:48:18.646] [INFO] [default] - db open
+[2017-02-16 17:53:12.826] [INFO] [default] - db connected
+[2017-02-16 17:53:12.833] [INFO] [default] - db open
+[2017-02-16 17:54:32.925] [INFO] [default] - db connected
+[2017-02-16 17:54:32.929] [INFO] [default] - db open
+[2017-02-16 17:55:25.034] [INFO] [default] - db connected
+[2017-02-16 17:55:25.038] [INFO] [default] - db open
+[2017-02-16 17:58:14.307] [INFO] [default] - db connected
+[2017-02-16 17:58:14.311] [INFO] [default] - db open
+[2017-02-16 17:58:35.380] [INFO] [default] - db connected
+[2017-02-16 17:58:35.387] [INFO] [default] - db open
+[2017-02-16 18:19:16.051] [INFO] [default] - db connected
+[2017-02-16 18:19:16.055] [INFO] [default] - db open
+[2017-02-16 18:19:16.544] [INFO] [default] - token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1OGEyNzQ0NjI0ZmYyMzY1YjMzYjIxOTgiLCJpYXQiOjE0ODcyMzg3OTh9.eaOsRNXvKQHchugcpCPqsZz-C2JGTZnctEJ_hzQ5gwU
+[2017-02-16 18:19:16.548] [INFO] [default] - decoded: [object Object]
+[2017-02-16 18:19:16.549] [INFO] [default] - userId: 58a2744624ff2365b33b2198
+[2017-02-16 18:19:16.550] [INFO] [default] - category::::undefined
+[2017-02-16 18:20:01.648] [INFO] [default] - db connected
+[2017-02-16 18:20:01.652] [INFO] [default] - db open
+[2017-02-16 18:20:24.107] [INFO] [default] - db connected
+[2017-02-16 18:20:24.112] [INFO] [default] - db open
+[2017-02-16 18:21:02.657] [INFO] [default] - db connected
+[2017-02-16 18:21:02.660] [INFO] [default] - db open
+[2017-02-16 18:24:36.753] [INFO] [default] - db connected
+[2017-02-16 18:24:36.762] [INFO] [default] - db open
+[2017-02-16 18:24:55.538] [INFO] [default] - db connected
+[2017-02-16 18:24:55.543] [INFO] [default] - db open
+[2017-02-16 18:25:13.320] [INFO] [default] - db connected
+[2017-02-16 18:25:13.325] [INFO] [default] - db open
+[2017-02-16 18:25:59.847] [INFO] [default] - token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1OGEyNzQ0NjI0ZmYyMzY1YjMzYjIxOTgiLCJpYXQiOjE0ODcyMzg3OTh9.eaOsRNXvKQHchugcpCPqsZz-C2JGTZnctEJ_hzQ5gwU
+[2017-02-16 18:25:59.852] [INFO] [default] - decoded: [object Object]
+[2017-02-16 18:25:59.852] [INFO] [default] - userId: 58a2744624ff2365b33b2198
+[2017-02-16 18:26:09.062] [INFO] [default] - token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1OGEyNzQ0NjI0ZmYyMzY1YjMzYjIxOTgiLCJpYXQiOjE0ODcyMzg3OTh9.eaOsRNXvKQHchugcpCPqsZz-C2JGTZnctEJ_hzQ5gwU
+[2017-02-16 18:26:09.063] [INFO] [default] - decoded: [object Object]
+[2017-02-16 18:26:09.064] [INFO] [default] - userId: 58a2744624ff2365b33b2198
+[2017-02-16 18:30:11.806] [INFO] [default] - db connected
+[2017-02-16 18:30:11.811] [INFO] [default] - db open
+[2017-02-16 18:30:12.836] [INFO] [default] - token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1OGEyNzQ0NjI0ZmYyMzY1YjMzYjIxOTgiLCJpYXQiOjE0ODcyMzg3OTh9.eaOsRNXvKQHchugcpCPqsZz-C2JGTZnctEJ_hzQ5gwU
+[2017-02-16 18:30:12.861] [INFO] [default] - decoded: [object Object]
+[2017-02-16 18:30:12.862] [INFO] [default] - userId: 58a2744624ff2365b33b2198
+[2017-02-16 18:30:20.644] [INFO] [default] - token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1OGEyNzQ0NjI0ZmYyMzY1YjMzYjIxOTgiLCJpYXQiOjE0ODcyMzg3OTh9.eaOsRNXvKQHchugcpCPqsZz-C2JGTZnctEJ_hzQ5gwU
+[2017-02-16 18:30:20.644] [INFO] [default] - decoded: [object Object]
+[2017-02-16 18:30:20.644] [INFO] [default] - userId: 58a2744624ff2365b33b2198
+[2017-02-16 18:30:48.508] [INFO] [default] - db connected
+[2017-02-16 18:30:48.513] [INFO] [default] - db open
+[2017-02-16 18:32:03.794] [INFO] [default] - db connected
+[2017-02-16 18:32:03.808] [INFO] [default] - db open
+[2017-02-16 18:32:10.601] [INFO] [default] - db connected
+[2017-02-16 18:32:10.605] [INFO] [default] - db open
+[2017-02-16 18:33:36.532] [INFO] [default] - db connected
+[2017-02-16 18:33:36.539] [INFO] [default] - db open
+[2017-02-16 18:33:41.635] [INFO] [default] - db connected
+[2017-02-16 18:33:41.639] [INFO] [default] - db open
+[2017-02-16 18:34:16.427] [INFO] [default] - db connected
+[2017-02-16 18:34:16.432] [INFO] [default] - db open
+[2017-02-16 18:34:26.050] [INFO] [default] - db connected
+[2017-02-16 18:34:26.056] [INFO] [default] - db open
+[2017-02-16 18:34:52.829] [INFO] [default] - db connected
+[2017-02-16 18:34:52.832] [INFO] [default] - db open
+[2017-02-16 18:35:17.691] [INFO] [default] - db connected
+[2017-02-16 18:35:17.695] [INFO] [default] - db open
+[2017-02-16 18:35:21.174] [INFO] [default] - db connected
+[2017-02-16 18:35:21.180] [INFO] [default] - db open
+[2017-02-16 18:35:23.841] [INFO] [default] - db connected
+[2017-02-16 18:35:23.845] [INFO] [default] - db open
+[2017-02-16 18:35:37.312] [INFO] [default] - db connected
+[2017-02-16 18:35:37.316] [INFO] [default] - db open
+[2017-02-16 18:35:49.787] [INFO] [default] - db connected
+[2017-02-16 18:35:49.791] [INFO] [default] - db open
+[2017-02-16 18:38:21.519] [INFO] [default] - db connected
+[2017-02-16 18:38:21.525] [INFO] [default] - db open
+[2017-02-16 18:38:57.213] [INFO] [default] - db connected
+[2017-02-16 18:38:57.217] [INFO] [default] - db open
+[2017-02-16 18:42:05.627] [INFO] [default] - db connected
+[2017-02-16 18:42:05.634] [INFO] [default] - db open
+[2017-02-16 18:42:28.953] [INFO] [default] - db connected
+[2017-02-16 18:42:28.957] [INFO] [default] - db open
+[2017-02-16 18:42:59.325] [INFO] [default] - db connected
+[2017-02-16 18:42:59.343] [INFO] [default] - db open
+[2017-02-16 18:43:34.648] [INFO] [default] - db connected
+[2017-02-16 18:43:34.655] [INFO] [default] - db open
+[2017-02-16 18:44:16.820] [INFO] [default] - db connected
+[2017-02-16 18:44:16.826] [INFO] [default] - db open
+[2017-02-16 18:44:31.218] [INFO] [default] - db connected
+[2017-02-16 18:44:31.222] [INFO] [default] - db open
+[2017-02-16 18:44:32.008] [INFO] [default] - token:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1OGEyNzQ0NjI0ZmYyMzY1YjMzYjIxOTgiLCJpYXQiOjE0ODcyMzg3OTh9.eaOsRNXvKQHchugcpCPqsZz-C2JGTZnctEJ_hzQ5gwU
+[2017-02-16 18:44:50.374] [INFO] [default] - db connected
+[2017-02-16 18:44:50.382] [INFO] [default] - db open
+[2017-02-16 18:44:51.132] [INFO] [default] - token:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1OGEyNzQ0NjI0ZmYyMzY1YjMzYjIxOTgiLCJpYXQiOjE0ODcyMzg3OTh9.eaOsRNXvKQHchugcpCPqsZz-C2JGTZnctEJ_hzQ5gwUsecret:undefined
+[2017-02-16 18:44:58.040] [INFO] [default] - db connected
+[2017-02-16 18:44:58.044] [INFO] [default] - db open
+[2017-02-16 18:44:58.615] [INFO] [default] - token:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1OGEyNzQ0NjI0ZmYyMzY1YjMzYjIxOTgiLCJpYXQiOjE0ODcyMzg3OTh9.eaOsRNXvKQHchugcpCPqsZz-C2JGTZnctEJ_hzQ5gwUsecret:undefined
+[2017-02-16 18:45:15.617] [INFO] [default] - db connected
+[2017-02-16 18:45:15.621] [INFO] [default] - db open
+[2017-02-16 18:45:47.740] [INFO] [default] - db connected
+[2017-02-16 18:45:47.745] [INFO] [default] - db open
+[2017-02-16 18:45:48.659] [INFO] [default] - token:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1OGEyNzQ0NjI0ZmYyMzY1YjMzYjIxOTgiLCJpYXQiOjE0ODcyMzg3OTh9.eaOsRNXvKQHchugcpCPqsZz-C2JGTZnctEJ_hzQ5gwU
+secret:centling.tech-ctblog
+[2017-02-16 18:45:52.980] [INFO] [default] - db connected
+[2017-02-16 18:45:52.984] [INFO] [default] - db open
+[2017-02-16 18:45:59.709] [INFO] [default] - token:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1OGEyNzQ0NjI0ZmYyMzY1YjMzYjIxOTgiLCJpYXQiOjE0ODcyMzg3OTh9.eaOsRNXvKQHchugcpCPqsZz-C2JGTZnctEJ_hzQ5gwU
+secret:centling.tech-ctblog
+[2017-02-16 18:46:28.309] [INFO] [default] - db connected
+[2017-02-16 18:46:28.316] [INFO] [default] - db open
+[2017-02-16 18:46:29.042] [INFO] [default] - token:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1OGEyNzQ0NjI0ZmYyMzY1YjMzYjIxOTgiLCJpYXQiOjE0ODcyMzg3OTh9.eaOsRNXvKQHchugcpCPqsZz-C2JGTZnctEJ_hzQ5gwU
+secret:centling.tech-ctblog
+[2017-02-16 18:46:37.162] [INFO] [default] - db connected
+[2017-02-16 18:46:37.169] [INFO] [default] - db open
+[2017-02-16 18:47:33.535] [INFO] [default] - db connected
+[2017-02-16 18:47:33.540] [INFO] [default] - db open
+[2017-02-16 18:47:49.129] [INFO] [default] - db connected
+[2017-02-16 18:47:49.133] [INFO] [default] - db open
+[2017-02-16 18:48:47.127] [INFO] [default] - db connected
+[2017-02-16 18:48:47.131] [INFO] [default] - db open
+[2017-02-16 18:49:18.629] [INFO] [default] - db connected
+[2017-02-16 18:49:18.636] [INFO] [default] - db open
+[2017-02-16 18:49:20.649] [INFO] [default] - db connected
+[2017-02-16 18:49:20.653] [INFO] [default] - db open
+[2017-02-16 18:49:40.892] [INFO] [default] - db connected
+[2017-02-16 18:49:40.901] [INFO] [default] - db open
+[2017-02-16 18:49:51.365] [INFO] [default] - db connected
+[2017-02-16 18:49:51.369] [INFO] [default] - db open
+[2017-02-16 18:49:55.648] [INFO] [default] - db connected
+[2017-02-16 18:49:55.653] [INFO] [default] - db open
+[2017-02-16 18:50:36.834] [INFO] [default] - db connected
+[2017-02-16 18:50:36.840] [INFO] [default] - db open
+[2017-02-16 18:50:49.887] [INFO] [default] - db connected
+[2017-02-16 18:50:49.891] [INFO] [default] - db open
+[2017-02-16 18:51:26.741] [INFO] [default] - db connected
+[2017-02-16 18:51:26.749] [INFO] [default] - db open
+[2017-02-16 18:51:54.455] [INFO] [default] - userId:58a2744624ff2365b33b2198
+[2017-02-16 18:52:13.545] [INFO] [default] - db connected
+[2017-02-16 18:52:13.549] [INFO] [default] - db open
+[2017-02-16 18:52:24.580] [INFO] [default] - db connected
+[2017-02-16 18:52:24.595] [INFO] [default] - db open
+[2017-02-16 18:52:49.359] [INFO] [default] - db connected
+[2017-02-16 18:52:49.363] [INFO] [default] - db open
+[2017-02-16 18:53:08.159] [INFO] [default] - db connected
+[2017-02-16 18:53:08.163] [INFO] [default] - db open
+[2017-02-16 18:53:19.893] [INFO] [default] - db connected
+[2017-02-16 18:53:19.897] [INFO] [default] - db open
+[2017-02-16 18:53:23.918] [INFO] [default] - db connected
+[2017-02-16 18:53:23.923] [INFO] [default] - db open
+[2017-02-16 18:53:35.393] [INFO] [default] - db connected
+[2017-02-16 18:53:35.399] [INFO] [default] - db open
+[2017-02-16 18:53:37.895] [INFO] [default] - db connected
+[2017-02-16 18:53:37.901] [INFO] [default] - db open
+[2017-02-16 18:54:03.467] [INFO] [default] - db connected
+[2017-02-16 18:54:03.473] [INFO] [default] - db open
+[2017-02-16 18:54:18.952] [INFO] [default] - db connected
+[2017-02-16 18:54:18.956] [INFO] [default] - db open
+[2017-02-16 18:54:33.316] [INFO] [default] - db connected
+[2017-02-16 18:54:33.320] [INFO] [default] - db open
+[2017-02-16 18:54:36.403] [INFO] [default] - db connected
+[2017-02-16 18:54:36.407] [INFO] [default] - db open
+[2017-02-16 18:54:41.531] [INFO] [default] - db connected
+[2017-02-16 18:54:41.537] [INFO] [default] - db open
+[2017-02-16 18:55:00.943] [INFO] [default] - db connected
+[2017-02-16 18:55:00.949] [INFO] [default] - db open
+[2017-02-16 18:57:26.589] [INFO] [default] - userId:58a2744624ff2365b33b2198

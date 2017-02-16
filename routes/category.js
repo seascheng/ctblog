@@ -1,14 +1,15 @@
-var router = require('express').Router();
-var response = require('../utils/response');
-var Category = require('../model/Category');
-var Post = require('../model/post');
+var router = require('express').Router()
+var response = require('../utils/response')
+var Category = require('../model/Category')
+var Post = require('../model/post')
+var checkToken = require('../middlewares/check').checkToken;
 
 
 // var checkLogin = require('../middlewares/check').checkLogin;
 
 // POST /category/create 新增类别
-router.post('/create', function(req, res, next) {
-  var userId = req.body.userId;
+router.post('/create', checkToken, function(req, res, next) {
+  var userId = req.userId;
   var categoryName = req.body.categoryName;
   var category = new Category({
     user_id : userId,
@@ -36,7 +37,7 @@ router.get('/list/:userId', function(req, res, next){
 
 
 // POST /eidt/:categoryId 编辑类别
-router.post('/eidt/:categoryId', function(req, res, next) {
+router.post('/eidt/:categoryId', checkToken, function(req, res, next) {
   var categoryId = req.params.categoryId;
   var categoryName = req.body.categoryName;
   var newCategory = {
@@ -53,7 +54,7 @@ router.post('/eidt/:categoryId', function(req, res, next) {
 
 
 // GET /delete/:categoryId 删除类别
-router.get('/delete/:categoryId', function(req, res, next) {
+router.get('/delete/:categoryId', checkToken, function(req, res, next) {
   var categoryId = req.params.categoryId;
   Category.findOneAndUpdate({_id: categoryId}, {category_status: 1}, {new: true})
   .then(result => {

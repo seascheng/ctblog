@@ -1,13 +1,11 @@
-var router = require('express').Router();
+var router = require('express').Router()
 var Comment = require('../model/comment')
 var response = require('../utils/response')
-
-
-// var checkLogin = require('../middlewares/check').checkLogin;
+var checkToken = require('../middlewares/check').checkToken;
 
 // POST /comment/create 发表评论
-router.post('/create', function(req, res, next) {
-  var userId = req.body.userId;
+router.post('/create', checkToken, function(req, res, next) {
+  var userId = req.userId;
   var postId = req.body.postId;
   var commentContent = req.body.commentContent;
   var commentParent = req.body.commentParent;
@@ -44,7 +42,7 @@ router.get('/list/:postId', function(req, res, next){
 
 
 // POST /eidt/:commentId 编辑评论
-router.post('/eidt/:commentId', function(req, res, next) {
+router.post('/eidt/:commentId', checkToken, function(req, res, next) {
   var commentId = req.params.commentId;
   var commentContent = req.body.commentContent;
   var newComment = {
@@ -61,7 +59,7 @@ router.post('/eidt/:commentId', function(req, res, next) {
 
 
 // GET /delete/:commentId 删除评论
-router.get('/delete/:commentId', function(req, res, next) {
+router.get('/delete/:commentId', checkToken, function(req, res, next) {
   var commentId = req.params.commentId;
   Comment.findOneAndUpdate({_id: commentId}, {comment_status: 1}, {new: true})
   .then(result => {
