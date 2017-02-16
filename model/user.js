@@ -37,7 +37,8 @@ var userSchema = new Schema({
 		key : String,
 		value: String
 	}],
-	timestamps:{},
+},{ 
+	timestamps: true 
 })
 var User = mongoose.model('User', userSchema);
 module.exports = User;

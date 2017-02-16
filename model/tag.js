@@ -13,7 +13,8 @@ var tagSchema = new Schema({
 		type : String,
 		required : [true, 'Tag name required']
 	},
-	timestamps:{},
+},{ 
+	timestamps: true 
 })
 var Tag = mongoose.model('Tag', tagSchema);
 module.exports = Tag;

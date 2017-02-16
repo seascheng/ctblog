@@ -17,7 +17,8 @@ var categorySchema = new Schema({
 		type : Number,
 		default: 0
 	},  //0:正常 1:已删除
-	timestamps:{},
+},{ 
+	timestamps: true 
 })
 var Category = mongoose.model('Category', categorySchema);
 module.exports = Category;

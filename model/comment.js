@@ -27,7 +27,8 @@ var commentSchema = new Schema({
 		type : Number,
 		default: 0
 	},  //0:正常 1:已删除
-	timestamps:{},
+},{ 
+	timestamps: true 
 })
 var Comment = mongoose.model('Comment', commentSchema);
 module.exports = Comment;

@@ -17,7 +17,8 @@ var linkSchema = new Schema({
 		type : String,
 		required : [true, 'Link url required']
 	},
-	timestamps:{},
+},{ 
+	timestamps: true 
 })
 var Link = mongoose.model('Link', linkSchema);
 module.exports = Link;

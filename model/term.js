@@ -18,7 +18,8 @@ var termSchema = new Schema({
 		key : String,
 		value: String
 	}],
-	timestamps:{},
+},{ 
+	timestamps: true 
 })
 var Term = mongoose.model('Term', termSchema);
 module.exports = Term;

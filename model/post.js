@@ -44,7 +44,8 @@ var postSchema = new Schema({
 		key : String,
 		value: String
 	}],
-	timestamps:{},
+},{ 
+	timestamps: true 
 })
 var Post = mongoose.model('Post', postSchema);
 module.exports = Post;
